@@ -149,13 +149,13 @@
             this.lst_turno = new DevExpress.XtraEditors.LookUpEdit();
             this.lst_fecha_transaccion = new DevExpress.XtraEditors.DateEdit();
             this.txt_tag = new DevExpress.XtraEditors.TextEdit();
+            this.txt_user3 = new DevExpress.XtraEditors.SearchLookUpEdit();
+            this.searchLookUpEdit1View = new DevExpress.XtraGrid.Views.Grid.GridView();
             this.bRC_TAGSTableAdapter = new brc_tags.DA.DataSetTagsTableAdapters.BRC_TAGSTableAdapter();
             this.tableAdapterManager = new brc_tags.DA.DataSetTagsTableAdapters.TableAdapterManager();
             this.sp1 = new System.IO.Ports.SerialPort(this.components);
             this.tm_lectura = new System.Windows.Forms.Timer(this.components);
             this.sP_BRC_OBTENER_TAGS_TIPO_PLANTILLATableAdapter = new brc_tags.DA.DataSetEncabezadoTableAdapters.SP_BRC_OBTENER_TAGS_TIPO_PLANTILLATableAdapter();
-            this.txt_user3 = new DevExpress.XtraEditors.SearchLookUpEdit();
-            this.searchLookUpEdit1View = new DevExpress.XtraGrid.Views.Grid.GridView();
             iD_TAGSLabel = new System.Windows.Forms.Label();
             fECHA_TRANSACCIONLabel = new System.Windows.Forms.Label();
             tURNOLabel = new System.Windows.Forms.Label();
@@ -1062,7 +1062,7 @@
             // btn_units
             // 
             this.btn_units.Image = global::brc_tags.Properties.Resources.UNITS64;
-            this.btn_units.Location = new System.Drawing.Point(533, 205);
+            this.btn_units.Location = new System.Drawing.Point(535, 205);
             this.btn_units.Name = "btn_units";
             this.btn_units.Size = new System.Drawing.Size(75, 74);
             this.btn_units.TabIndex = 68;
@@ -1591,29 +1591,6 @@
             this.txt_tag.TabIndex = 0;
             this.txt_tag.EditValueChanged += new System.EventHandler(this.txt_tag_EditValueChanged);
             // 
-            // bRC_TAGSTableAdapter
-            // 
-            this.bRC_TAGSTableAdapter.ClearBeforeFill = true;
-            // 
-            // tableAdapterManager
-            // 
-            this.tableAdapterManager.BackupDataSetBeforeUpdate = false;
-            this.tableAdapterManager.BRC_TAGSTableAdapter = this.bRC_TAGSTableAdapter;
-            this.tableAdapterManager.UpdateOrder = DA.DataSetTagsTableAdapters.TableAdapterManager.UpdateOrderOption.InsertUpdateDelete;
-            // 
-            // sp1
-            // 
-            this.sp1.DataReceived += new System.IO.Ports.SerialDataReceivedEventHandler(this.sp1_DataReceived);
-            // 
-            // tm_lectura
-            // 
-            this.tm_lectura.Enabled = true;
-            this.tm_lectura.Tick += new System.EventHandler(this.timer1_Tick);
-            // 
-            // sP_BRC_OBTENER_TAGS_TIPO_PLANTILLATableAdapter
-            // 
-            this.sP_BRC_OBTENER_TAGS_TIPO_PLANTILLATableAdapter.ClearBeforeFill = true;
-            // 
             // txt_user3
             // 
             this.txt_user3.DataBindings.Add(new System.Windows.Forms.Binding("EditValue", this.bRCTAGSBindingSource, "USER_3", true));
@@ -1637,6 +1614,29 @@
             this.searchLookUpEdit1View.Name = "searchLookUpEdit1View";
             this.searchLookUpEdit1View.OptionsSelection.EnableAppearanceFocusedCell = false;
             this.searchLookUpEdit1View.OptionsView.ShowGroupPanel = false;
+            // 
+            // bRC_TAGSTableAdapter
+            // 
+            this.bRC_TAGSTableAdapter.ClearBeforeFill = true;
+            // 
+            // tableAdapterManager
+            // 
+            this.tableAdapterManager.BackupDataSetBeforeUpdate = false;
+            this.tableAdapterManager.BRC_TAGSTableAdapter = this.bRC_TAGSTableAdapter;
+            this.tableAdapterManager.UpdateOrder = brc_tags.DA.DataSetTagsTableAdapters.TableAdapterManager.UpdateOrderOption.InsertUpdateDelete;
+            // 
+            // sp1
+            // 
+            this.sp1.DataReceived += new System.IO.Ports.SerialDataReceivedEventHandler(this.sp1_DataReceived);
+            // 
+            // tm_lectura
+            // 
+            this.tm_lectura.Enabled = true;
+            this.tm_lectura.Tick += new System.EventHandler(this.timer1_Tick);
+            // 
+            // sP_BRC_OBTENER_TAGS_TIPO_PLANTILLATableAdapter
+            // 
+            this.sP_BRC_OBTENER_TAGS_TIPO_PLANTILLATableAdapter.ClearBeforeFill = true;
             // 
             // Form1
             // 

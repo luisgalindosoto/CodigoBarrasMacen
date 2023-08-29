@@ -2238,7 +2238,7 @@ namespace brc_tags
 
         private void barButtonItem11_ItemClick(object sender, DevExpress.XtraBars.ItemClickEventArgs e)
         {
-            
+            //prueba cambio
             string ControlError = "";
             conexion consulta = new conexion();
             consulta.SetDB(DB);
