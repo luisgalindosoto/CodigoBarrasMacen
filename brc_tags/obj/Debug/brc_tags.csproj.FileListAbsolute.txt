@@ -555,3 +555,6 @@ C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Deb
 C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.csprojAssemblyReference.cache
 C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.csproj.CoreCompileInputs.cache
 C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.csproj.CopyComplete
+C:\rpcbmac\brc_tags\bin\Debug\brc_tags.exe.config
+C:\rpcbmac\brc_tags\obj\Debug\brc_tags.exe
+C:\rpcbmac\brc_tags\obj\Debug\brc_tags.pdb
