@@ -1,0 +1,1348 @@
+﻿namespace brc_tags
+{
+    partial class Form1
+    {
+        /// <summary>
+        /// Variable del diseñador requerida.
+        /// </summary>
+        private System.ComponentModel.IContainer components = null;
+
+        /// <summary>
+        /// Limpiar los recursos que se estén utilizando.
+        /// </summary>
+        /// <param name="disposing">true si los recursos administrados se deben desechar; false en caso contrario.</param>
+        protected override void Dispose(bool disposing)
+        {
+            if (disposing && (components != null))
+            {
+                components.Dispose();
+            }
+            base.Dispose(disposing);
+        }
+
+        #region Código generado por el Diseñador de Windows Forms
+
+        /// <summary>
+        /// Método necesario para admitir el Diseñador. No se puede modificar
+        /// el contenido del método con el editor de código.
+        /// </summary>
+        private void InitializeComponent()
+        {
+            this.components = new System.ComponentModel.Container();
+            System.Windows.Forms.Label iD_TAGSLabel;
+            System.Windows.Forms.Label fECHA_TRANSACCIONLabel;
+            System.Windows.Forms.Label tURNOLabel;
+            System.Windows.Forms.Label uSUARIO_CREOLabel;
+            System.Windows.Forms.Label fECHA_CREACIONLabel;
+            System.Windows.Forms.Label iD_TIPO_PLANTILLALabel;
+            System.Windows.Forms.Label iD_MAQUINALabel;
+            System.Windows.Forms.Label oPLabel;
+            System.Windows.Forms.Label cOD_ARTICULOLabel;
+            System.Windows.Forms.Label uNIDAD_1Label;
+            System.Windows.Forms.Label uNIDAD_2Label;
+            System.Windows.Forms.Label uSER_1Label;
+            System.Windows.Forms.Label uSER_2Label;
+            System.Windows.Forms.Label uSER_3Label;
+            System.Windows.Forms.Label uSER_4Label;
+            System.Windows.Forms.Label uSER_5Label;
+            System.Windows.Forms.Label uSER_6Label;
+            System.Windows.Forms.Label uSER_7Label;
+            System.Windows.Forms.Label uSER_8Label;
+            System.Windows.Forms.Label uSER_9Label;
+            System.Windows.Forms.Label uSER_10Label;
+            System.Windows.Forms.Label aCTIVOLabel;
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(Form1));
+            DevExpress.XtraPrinting.BarCode.Code128Generator code128Generator1 = new DevExpress.XtraPrinting.BarCode.Code128Generator();
+            this.ribbonControl1 = new DevExpress.XtraBars.Ribbon.RibbonControl();
+            this.barButtonItem1 = new DevExpress.XtraBars.BarButtonItem();
+            this.barButtonItem2 = new DevExpress.XtraBars.BarButtonItem();
+            this.barButtonItem3 = new DevExpress.XtraBars.BarButtonItem();
+            this.barButtonItem4 = new DevExpress.XtraBars.BarButtonItem();
+            this.barButtonItem5 = new DevExpress.XtraBars.BarButtonItem();
+            this.barButtonItem6 = new DevExpress.XtraBars.BarButtonItem();
+            this.barButtonItem7 = new DevExpress.XtraBars.BarButtonItem();
+            this.barButtonItem8 = new DevExpress.XtraBars.BarButtonItem();
+            this.barButtonItem9 = new DevExpress.XtraBars.BarButtonItem();
+            this.barButtonItem10 = new DevExpress.XtraBars.BarButtonItem();
+            this.lst_tipo_plantilla = new DevExpress.XtraBars.BarEditItem();
+            this.repositoryItemLookUpEdit1 = new DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit();
+            this.barButtonItem11 = new DevExpress.XtraBars.BarButtonItem();
+            this.barButtonItem12 = new DevExpress.XtraBars.BarButtonItem();
+            this.ribbonPage1 = new DevExpress.XtraBars.Ribbon.RibbonPage();
+            this.ribbonPageGroup1 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
+            this.ribbonPageGroup2 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
+            this.ribbonPageGroup3 = new DevExpress.XtraBars.Ribbon.RibbonPageGroup();
+            this.ctrlTitulo1 = new BltCtr.CtrlTituloFrm();
+            this.groupControl1 = new DevExpress.XtraEditors.GroupControl();
+            this.gridControl1 = new DevExpress.XtraGrid.GridControl();
+            this.bRCTAGSBindingSource = new System.Windows.Forms.BindingSource(this.components);
+            this.dataSetTags = new brc_tags.DA.DataSetTags();
+            this.gridView1 = new DevExpress.XtraGrid.Views.Grid.GridView();
+            this.colID_TAGS = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colFECHA_TRANSACCION = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colTURNO = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colUSUARIO_CREO = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colFECHA_CREACION = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colID_TIPO_PLANTILLA = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colID_MAQUINA = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colOP = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colCOD_ARTICULO = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colUNIDAD_1 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colUNIDAD_2 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colUSER_1 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colUSER_2 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colUSER_3 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colUSER_4 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colUSER_5 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colACTIVO = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colUSER_6 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colUSER_7 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colUSER_8 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colUSER_9 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.colUSER_10 = new DevExpress.XtraGrid.Columns.GridColumn();
+            this.groupControl2 = new DevExpress.XtraEditors.GroupControl();
+            this.labelControl1 = new DevExpress.XtraEditors.LabelControl();
+            this.brc_tags = new DevExpress.XtraEditors.BarCodeControl();
+            this.chk_activo = new DevExpress.XtraEditors.CheckEdit();
+            this.txt_user10 = new DevExpress.XtraEditors.TextEdit();
+            this.txt_user9 = new DevExpress.XtraEditors.TextEdit();
+            this.txt_user8 = new DevExpress.XtraEditors.TextEdit();
+            this.txt_user7 = new DevExpress.XtraEditors.TextEdit();
+            this.txt_user6 = new DevExpress.XtraEditors.TextEdit();
+            this.txt_user5 = new DevExpress.XtraEditors.TextEdit();
+            this.txt_user4 = new DevExpress.XtraEditors.TextEdit();
+            this.txt_user3 = new DevExpress.XtraEditors.TextEdit();
+            this.txt_user2 = new DevExpress.XtraEditors.TextEdit();
+            this.txt_user1 = new DevExpress.XtraEditors.TextEdit();
+            this.lst_unidad2 = new DevExpress.XtraEditors.TextEdit();
+            this.lst_unidad1 = new DevExpress.XtraEditors.TextEdit();
+            this.lst_articulo = new DevExpress.XtraEditors.SearchLookUpEdit();
+            this.cOD_ARTICULOSearchLookUpEditView = new DevExpress.XtraGrid.Views.Grid.GridView();
+            this.lst_op = new DevExpress.XtraEditors.SearchLookUpEdit();
+            this.oPSearchLookUpEditView = new DevExpress.XtraGrid.Views.Grid.GridView();
+            this.lst_maquina = new DevExpress.XtraEditors.SearchLookUpEdit();
+            this.iD_MAQUINASearchLookUpEditView = new DevExpress.XtraGrid.Views.Grid.GridView();
+            this.txt_tipo_plantilla = new DevExpress.XtraEditors.TextEdit();
+            this.lst_fecha_creacion = new DevExpress.XtraEditors.DateEdit();
+            this.txt_usuario_creo = new DevExpress.XtraEditors.TextEdit();
+            this.lst_turno = new DevExpress.XtraEditors.LookUpEdit();
+            this.lst_fecha_transaccion = new DevExpress.XtraEditors.DateEdit();
+            this.txt_tag = new DevExpress.XtraEditors.TextEdit();
+            this.bRC_TAGSTableAdapter = new brc_tags.DA.DataSetTagsTableAdapters.BRC_TAGSTableAdapter();
+            this.tableAdapterManager = new brc_tags.DA.DataSetTagsTableAdapters.TableAdapterManager();
+            iD_TAGSLabel = new System.Windows.Forms.Label();
+            fECHA_TRANSACCIONLabel = new System.Windows.Forms.Label();
+            tURNOLabel = new System.Windows.Forms.Label();
+            uSUARIO_CREOLabel = new System.Windows.Forms.Label();
+            fECHA_CREACIONLabel = new System.Windows.Forms.Label();
+            iD_TIPO_PLANTILLALabel = new System.Windows.Forms.Label();
+            iD_MAQUINALabel = new System.Windows.Forms.Label();
+            oPLabel = new System.Windows.Forms.Label();
+            cOD_ARTICULOLabel = new System.Windows.Forms.Label();
+            uNIDAD_1Label = new System.Windows.Forms.Label();
+            uNIDAD_2Label = new System.Windows.Forms.Label();
+            uSER_1Label = new System.Windows.Forms.Label();
+            uSER_2Label = new System.Windows.Forms.Label();
+            uSER_3Label = new System.Windows.Forms.Label();
+            uSER_4Label = new System.Windows.Forms.Label();
+            uSER_5Label = new System.Windows.Forms.Label();
+            uSER_6Label = new System.Windows.Forms.Label();
+            uSER_7Label = new System.Windows.Forms.Label();
+            uSER_8Label = new System.Windows.Forms.Label();
+            uSER_9Label = new System.Windows.Forms.Label();
+            uSER_10Label = new System.Windows.Forms.Label();
+            aCTIVOLabel = new System.Windows.Forms.Label();
+            ((System.ComponentModel.ISupportInitialize)(this.ribbonControl1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.repositoryItemLookUpEdit1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).BeginInit();
+            this.groupControl1.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.gridControl1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bRCTAGSBindingSource)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataSetTags)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.groupControl2)).BeginInit();
+            this.groupControl2.SuspendLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.chk_activo.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txt_user10.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txt_user9.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txt_user8.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txt_user7.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txt_user6.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txt_user5.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txt_user4.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txt_user3.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txt_user2.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txt_user1.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lst_unidad2.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lst_unidad1.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lst_articulo.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.cOD_ARTICULOSearchLookUpEditView)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lst_op.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.oPSearchLookUpEditView)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lst_maquina.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.iD_MAQUINASearchLookUpEditView)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txt_tipo_plantilla.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lst_fecha_creacion.Properties.CalendarTimeProperties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lst_fecha_creacion.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txt_usuario_creo.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lst_turno.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lst_fecha_transaccion.Properties.CalendarTimeProperties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lst_fecha_transaccion.Properties)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txt_tag.Properties)).BeginInit();
+            this.SuspendLayout();
+            // 
+            // iD_TAGSLabel
+            // 
+            iD_TAGSLabel.AutoSize = true;
+            iD_TAGSLabel.Location = new System.Drawing.Point(76, 26);
+            iD_TAGSLabel.Name = "iD_TAGSLabel";
+            iD_TAGSLabel.Size = new System.Drawing.Size(29, 13);
+            iD_TAGSLabel.TabIndex = 0;
+            iD_TAGSLabel.Text = "Tag:";
+            // 
+            // fECHA_TRANSACCIONLabel
+            // 
+            fECHA_TRANSACCIONLabel.AutoSize = true;
+            fECHA_TRANSACCIONLabel.Location = new System.Drawing.Point(5, 63);
+            fECHA_TRANSACCIONLabel.Name = "fECHA_TRANSACCIONLabel";
+            fECHA_TRANSACCIONLabel.Size = new System.Drawing.Size(100, 13);
+            fECHA_TRANSACCIONLabel.TabIndex = 2;
+            fECHA_TRANSACCIONLabel.Text = "Fecha Transaccion:";
+            // 
+            // tURNOLabel
+            // 
+            tURNOLabel.AutoSize = true;
+            tURNOLabel.Location = new System.Drawing.Point(66, 103);
+            tURNOLabel.Name = "tURNOLabel";
+            tURNOLabel.Size = new System.Drawing.Size(39, 13);
+            tURNOLabel.TabIndex = 4;
+            tURNOLabel.Text = "Turno:";
+            // 
+            // uSUARIO_CREOLabel
+            // 
+            uSUARIO_CREOLabel.AutoSize = true;
+            uSUARIO_CREOLabel.Location = new System.Drawing.Point(32, 137);
+            uSUARIO_CREOLabel.Name = "uSUARIO_CREOLabel";
+            uSUARIO_CREOLabel.Size = new System.Drawing.Size(73, 13);
+            uSUARIO_CREOLabel.TabIndex = 6;
+            uSUARIO_CREOLabel.Text = "Usuario Creo:";
+            // 
+            // fECHA_CREACIONLabel
+            // 
+            fECHA_CREACIONLabel.AutoSize = true;
+            fECHA_CREACIONLabel.Location = new System.Drawing.Point(20, 177);
+            fECHA_CREACIONLabel.Name = "fECHA_CREACIONLabel";
+            fECHA_CREACIONLabel.Size = new System.Drawing.Size(85, 13);
+            fECHA_CREACIONLabel.TabIndex = 8;
+            fECHA_CREACIONLabel.Text = "Fecha Creacion:";
+            // 
+            // iD_TIPO_PLANTILLALabel
+            // 
+            iD_TIPO_PLANTILLALabel.AutoSize = true;
+            iD_TIPO_PLANTILLALabel.Location = new System.Drawing.Point(35, 221);
+            iD_TIPO_PLANTILLALabel.Name = "iD_TIPO_PLANTILLALabel";
+            iD_TIPO_PLANTILLALabel.Size = new System.Drawing.Size(70, 13);
+            iD_TIPO_PLANTILLALabel.TabIndex = 10;
+            iD_TIPO_PLANTILLALabel.Text = "Tipo Plantilla:";
+            // 
+            // iD_MAQUINALabel
+            // 
+            iD_MAQUINALabel.AutoSize = true;
+            iD_MAQUINALabel.Location = new System.Drawing.Point(54, 260);
+            iD_MAQUINALabel.Name = "iD_MAQUINALabel";
+            iD_MAQUINALabel.Size = new System.Drawing.Size(51, 13);
+            iD_MAQUINALabel.TabIndex = 12;
+            iD_MAQUINALabel.Text = "Maquina:";
+            // 
+            // oPLabel
+            // 
+            oPLabel.AutoSize = true;
+            oPLabel.Location = new System.Drawing.Point(80, 299);
+            oPLabel.Name = "oPLabel";
+            oPLabel.Size = new System.Drawing.Size(25, 13);
+            oPLabel.TabIndex = 14;
+            oPLabel.Text = "OP:";
+            // 
+            // cOD_ARTICULOLabel
+            // 
+            cOD_ARTICULOLabel.AutoSize = true;
+            cOD_ARTICULOLabel.Location = new System.Drawing.Point(58, 338);
+            cOD_ARTICULOLabel.Name = "cOD_ARTICULOLabel";
+            cOD_ARTICULOLabel.Size = new System.Drawing.Size(47, 13);
+            cOD_ARTICULOLabel.TabIndex = 16;
+            cOD_ARTICULOLabel.Text = "Articulo:";
+            // 
+            // uNIDAD_1Label
+            // 
+            uNIDAD_1Label.AutoSize = true;
+            uNIDAD_1Label.Location = new System.Drawing.Point(52, 377);
+            uNIDAD_1Label.Name = "uNIDAD_1Label";
+            uNIDAD_1Label.Size = new System.Drawing.Size(53, 13);
+            uNIDAD_1Label.TabIndex = 18;
+            uNIDAD_1Label.Text = "Unidad 1:";
+            // 
+            // uNIDAD_2Label
+            // 
+            uNIDAD_2Label.AutoSize = true;
+            uNIDAD_2Label.Location = new System.Drawing.Point(52, 414);
+            uNIDAD_2Label.Name = "uNIDAD_2Label";
+            uNIDAD_2Label.Size = new System.Drawing.Size(53, 13);
+            uNIDAD_2Label.TabIndex = 20;
+            uNIDAD_2Label.Text = "Unidad 2:";
+            // 
+            // uSER_1Label
+            // 
+            uSER_1Label.AutoSize = true;
+            uSER_1Label.Location = new System.Drawing.Point(265, 26);
+            uSER_1Label.Name = "uSER_1Label";
+            uSER_1Label.Size = new System.Drawing.Size(42, 13);
+            uSER_1Label.TabIndex = 22;
+            uSER_1Label.Text = "User 1:";
+            // 
+            // uSER_2Label
+            // 
+            uSER_2Label.AutoSize = true;
+            uSER_2Label.Location = new System.Drawing.Point(265, 63);
+            uSER_2Label.Name = "uSER_2Label";
+            uSER_2Label.Size = new System.Drawing.Size(42, 13);
+            uSER_2Label.TabIndex = 24;
+            uSER_2Label.Text = "User 2:";
+            // 
+            // uSER_3Label
+            // 
+            uSER_3Label.AutoSize = true;
+            uSER_3Label.Location = new System.Drawing.Point(265, 100);
+            uSER_3Label.Name = "uSER_3Label";
+            uSER_3Label.Size = new System.Drawing.Size(42, 13);
+            uSER_3Label.TabIndex = 26;
+            uSER_3Label.Text = "User 3:";
+            // 
+            // uSER_4Label
+            // 
+            uSER_4Label.AutoSize = true;
+            uSER_4Label.Location = new System.Drawing.Point(265, 137);
+            uSER_4Label.Name = "uSER_4Label";
+            uSER_4Label.Size = new System.Drawing.Size(42, 13);
+            uSER_4Label.TabIndex = 28;
+            uSER_4Label.Text = "User 4:";
+            // 
+            // uSER_5Label
+            // 
+            uSER_5Label.AutoSize = true;
+            uSER_5Label.Location = new System.Drawing.Point(265, 177);
+            uSER_5Label.Name = "uSER_5Label";
+            uSER_5Label.Size = new System.Drawing.Size(42, 13);
+            uSER_5Label.TabIndex = 30;
+            uSER_5Label.Text = "User 5:";
+            // 
+            // uSER_6Label
+            // 
+            uSER_6Label.AutoSize = true;
+            uSER_6Label.Location = new System.Drawing.Point(443, 29);
+            uSER_6Label.Name = "uSER_6Label";
+            uSER_6Label.Size = new System.Drawing.Size(42, 13);
+            uSER_6Label.TabIndex = 34;
+            uSER_6Label.Text = "User 6:";
+            // 
+            // uSER_7Label
+            // 
+            uSER_7Label.AutoSize = true;
+            uSER_7Label.Location = new System.Drawing.Point(443, 66);
+            uSER_7Label.Name = "uSER_7Label";
+            uSER_7Label.Size = new System.Drawing.Size(42, 13);
+            uSER_7Label.TabIndex = 36;
+            uSER_7Label.Text = "User 7:";
+            // 
+            // uSER_8Label
+            // 
+            uSER_8Label.AutoSize = true;
+            uSER_8Label.Location = new System.Drawing.Point(443, 100);
+            uSER_8Label.Name = "uSER_8Label";
+            uSER_8Label.Size = new System.Drawing.Size(42, 13);
+            uSER_8Label.TabIndex = 38;
+            uSER_8Label.Text = "User 8:";
+            // 
+            // uSER_9Label
+            // 
+            uSER_9Label.AutoSize = true;
+            uSER_9Label.Location = new System.Drawing.Point(443, 137);
+            uSER_9Label.Name = "uSER_9Label";
+            uSER_9Label.Size = new System.Drawing.Size(42, 13);
+            uSER_9Label.TabIndex = 40;
+            uSER_9Label.Text = "User 9:";
+            // 
+            // uSER_10Label
+            // 
+            uSER_10Label.AutoSize = true;
+            uSER_10Label.Location = new System.Drawing.Point(437, 177);
+            uSER_10Label.Name = "uSER_10Label";
+            uSER_10Label.Size = new System.Drawing.Size(48, 13);
+            uSER_10Label.TabIndex = 42;
+            uSER_10Label.Text = "User 10:";
+            // 
+            // aCTIVOLabel
+            // 
+            aCTIVOLabel.AutoSize = true;
+            aCTIVOLabel.Location = new System.Drawing.Point(64, 440);
+            aCTIVOLabel.Name = "aCTIVOLabel";
+            aCTIVOLabel.Size = new System.Drawing.Size(41, 13);
+            aCTIVOLabel.TabIndex = 43;
+            aCTIVOLabel.Text = "Activo:";
+            // 
+            // ribbonControl1
+            // 
+            this.ribbonControl1.ExpandCollapseItem.Id = 0;
+            this.ribbonControl1.Items.AddRange(new DevExpress.XtraBars.BarItem[] {
+            this.ribbonControl1.ExpandCollapseItem,
+            this.barButtonItem1,
+            this.barButtonItem2,
+            this.barButtonItem3,
+            this.barButtonItem4,
+            this.barButtonItem5,
+            this.barButtonItem6,
+            this.barButtonItem7,
+            this.barButtonItem8,
+            this.barButtonItem9,
+            this.barButtonItem10,
+            this.lst_tipo_plantilla,
+            this.barButtonItem11,
+            this.barButtonItem12});
+            this.ribbonControl1.Location = new System.Drawing.Point(0, 0);
+            this.ribbonControl1.MaxItemId = 14;
+            this.ribbonControl1.Name = "ribbonControl1";
+            this.ribbonControl1.Pages.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPage[] {
+            this.ribbonPage1});
+            this.ribbonControl1.RepositoryItems.AddRange(new DevExpress.XtraEditors.Repository.RepositoryItem[] {
+            this.repositoryItemLookUpEdit1});
+            this.ribbonControl1.Size = new System.Drawing.Size(1082, 141);
+            this.ribbonControl1.Click += new System.EventHandler(this.ribbonControl1_Click);
+            // 
+            // barButtonItem1
+            // 
+            this.barButtonItem1.Caption = "Primero";
+            this.barButtonItem1.Glyph = ((System.Drawing.Image)(resources.GetObject("barButtonItem1.Glyph")));
+            this.barButtonItem1.Id = 1;
+            this.barButtonItem1.LargeGlyph = ((System.Drawing.Image)(resources.GetObject("barButtonItem1.LargeGlyph")));
+            this.barButtonItem1.Name = "barButtonItem1";
+            this.barButtonItem1.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barButtonItem1_ItemClick);
+            // 
+            // barButtonItem2
+            // 
+            this.barButtonItem2.Caption = "Anterior";
+            this.barButtonItem2.Glyph = ((System.Drawing.Image)(resources.GetObject("barButtonItem2.Glyph")));
+            this.barButtonItem2.Id = 2;
+            this.barButtonItem2.LargeGlyph = ((System.Drawing.Image)(resources.GetObject("barButtonItem2.LargeGlyph")));
+            this.barButtonItem2.Name = "barButtonItem2";
+            this.barButtonItem2.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barButtonItem2_ItemClick);
+            // 
+            // barButtonItem3
+            // 
+            this.barButtonItem3.Caption = "Siguiente";
+            this.barButtonItem3.Glyph = ((System.Drawing.Image)(resources.GetObject("barButtonItem3.Glyph")));
+            this.barButtonItem3.Id = 3;
+            this.barButtonItem3.LargeGlyph = ((System.Drawing.Image)(resources.GetObject("barButtonItem3.LargeGlyph")));
+            this.barButtonItem3.Name = "barButtonItem3";
+            this.barButtonItem3.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barButtonItem3_ItemClick);
+            // 
+            // barButtonItem4
+            // 
+            this.barButtonItem4.Caption = "Ultimo";
+            this.barButtonItem4.Glyph = ((System.Drawing.Image)(resources.GetObject("barButtonItem4.Glyph")));
+            this.barButtonItem4.Id = 4;
+            this.barButtonItem4.LargeGlyph = ((System.Drawing.Image)(resources.GetObject("barButtonItem4.LargeGlyph")));
+            this.barButtonItem4.Name = "barButtonItem4";
+            this.barButtonItem4.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barButtonItem4_ItemClick);
+            // 
+            // barButtonItem5
+            // 
+            this.barButtonItem5.Caption = "Nuevo";
+            this.barButtonItem5.Glyph = ((System.Drawing.Image)(resources.GetObject("barButtonItem5.Glyph")));
+            this.barButtonItem5.Id = 5;
+            this.barButtonItem5.ItemShortcut = new DevExpress.XtraBars.BarShortcut((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.N));
+            this.barButtonItem5.LargeGlyph = ((System.Drawing.Image)(resources.GetObject("barButtonItem5.LargeGlyph")));
+            this.barButtonItem5.Name = "barButtonItem5";
+            this.barButtonItem5.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barButtonItem5_ItemClick);
+            // 
+            // barButtonItem6
+            // 
+            this.barButtonItem6.Caption = "Cancelar";
+            this.barButtonItem6.Glyph = ((System.Drawing.Image)(resources.GetObject("barButtonItem6.Glyph")));
+            this.barButtonItem6.Id = 6;
+            this.barButtonItem6.ItemShortcut = new DevExpress.XtraBars.BarShortcut((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.C));
+            this.barButtonItem6.LargeGlyph = ((System.Drawing.Image)(resources.GetObject("barButtonItem6.LargeGlyph")));
+            this.barButtonItem6.Name = "barButtonItem6";
+            // 
+            // barButtonItem7
+            // 
+            this.barButtonItem7.Caption = "Borrar";
+            this.barButtonItem7.Glyph = ((System.Drawing.Image)(resources.GetObject("barButtonItem7.Glyph")));
+            this.barButtonItem7.Id = 7;
+            this.barButtonItem7.ItemShortcut = new DevExpress.XtraBars.BarShortcut((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.B));
+            this.barButtonItem7.LargeGlyph = ((System.Drawing.Image)(resources.GetObject("barButtonItem7.LargeGlyph")));
+            this.barButtonItem7.Name = "barButtonItem7";
+            // 
+            // barButtonItem8
+            // 
+            this.barButtonItem8.Caption = "Guardar";
+            this.barButtonItem8.Glyph = ((System.Drawing.Image)(resources.GetObject("barButtonItem8.Glyph")));
+            this.barButtonItem8.Id = 8;
+            this.barButtonItem8.ItemShortcut = new DevExpress.XtraBars.BarShortcut((System.Windows.Forms.Keys.Control | System.Windows.Forms.Keys.G));
+            this.barButtonItem8.LargeGlyph = ((System.Drawing.Image)(resources.GetObject("barButtonItem8.LargeGlyph")));
+            this.barButtonItem8.Name = "barButtonItem8";
+            // 
+            // barButtonItem9
+            // 
+            this.barButtonItem9.Caption = "Salir";
+            this.barButtonItem9.Id = 9;
+            this.barButtonItem9.LargeGlyph = ((System.Drawing.Image)(resources.GetObject("barButtonItem9.LargeGlyph")));
+            this.barButtonItem9.Name = "barButtonItem9";
+            this.barButtonItem9.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barButtonItem9_ItemClick);
+            // 
+            // barButtonItem10
+            // 
+            this.barButtonItem10.Caption = "Operador Temporal";
+            this.barButtonItem10.Glyph = ((System.Drawing.Image)(resources.GetObject("barButtonItem10.Glyph")));
+            this.barButtonItem10.Id = 10;
+            this.barButtonItem10.LargeGlyph = ((System.Drawing.Image)(resources.GetObject("barButtonItem10.LargeGlyph")));
+            this.barButtonItem10.Name = "barButtonItem10";
+            // 
+            // lst_tipo_plantilla
+            // 
+            this.lst_tipo_plantilla.Caption = "Plantilla:";
+            this.lst_tipo_plantilla.Edit = this.repositoryItemLookUpEdit1;
+            this.lst_tipo_plantilla.EditWidth = 130;
+            this.lst_tipo_plantilla.Id = 11;
+            this.lst_tipo_plantilla.Name = "lst_tipo_plantilla";
+            this.lst_tipo_plantilla.EditValueChanged += new System.EventHandler(this.lst_tipo_plantilla_EditValueChanged);
+            this.lst_tipo_plantilla.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.lst_tipo_plantilla_ItemClick);
+            // 
+            // repositoryItemLookUpEdit1
+            // 
+            this.repositoryItemLookUpEdit1.AutoHeight = false;
+            this.repositoryItemLookUpEdit1.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.repositoryItemLookUpEdit1.Name = "repositoryItemLookUpEdit1";
+            // 
+            // barButtonItem11
+            // 
+            this.barButtonItem11.Caption = "Buscar";
+            this.barButtonItem11.Glyph = ((System.Drawing.Image)(resources.GetObject("barButtonItem11.Glyph")));
+            this.barButtonItem11.Id = 12;
+            this.barButtonItem11.LargeGlyph = ((System.Drawing.Image)(resources.GetObject("barButtonItem11.LargeGlyph")));
+            this.barButtonItem11.Name = "barButtonItem11";
+            this.barButtonItem11.ItemClick += new DevExpress.XtraBars.ItemClickEventHandler(this.barButtonItem11_ItemClick);
+            // 
+            // barButtonItem12
+            // 
+            this.barButtonItem12.Caption = "Editar";
+            this.barButtonItem12.Glyph = ((System.Drawing.Image)(resources.GetObject("barButtonItem12.Glyph")));
+            this.barButtonItem12.Id = 13;
+            this.barButtonItem12.LargeGlyph = ((System.Drawing.Image)(resources.GetObject("barButtonItem12.LargeGlyph")));
+            this.barButtonItem12.Name = "barButtonItem12";
+            // 
+            // ribbonPage1
+            // 
+            this.ribbonPage1.Groups.AddRange(new DevExpress.XtraBars.Ribbon.RibbonPageGroup[] {
+            this.ribbonPageGroup1,
+            this.ribbonPageGroup2,
+            this.ribbonPageGroup3});
+            this.ribbonPage1.Name = "ribbonPage1";
+            this.ribbonPage1.Text = "Editar";
+            // 
+            // ribbonPageGroup1
+            // 
+            this.ribbonPageGroup1.ItemLinks.Add(this.barButtonItem1);
+            this.ribbonPageGroup1.ItemLinks.Add(this.barButtonItem2);
+            this.ribbonPageGroup1.ItemLinks.Add(this.barButtonItem3);
+            this.ribbonPageGroup1.ItemLinks.Add(this.barButtonItem4);
+            this.ribbonPageGroup1.Name = "ribbonPageGroup1";
+            this.ribbonPageGroup1.Text = "Navegacion";
+            // 
+            // ribbonPageGroup2
+            // 
+            this.ribbonPageGroup2.ItemLinks.Add(this.barButtonItem5);
+            this.ribbonPageGroup2.ItemLinks.Add(this.barButtonItem6);
+            this.ribbonPageGroup2.ItemLinks.Add(this.barButtonItem12);
+            this.ribbonPageGroup2.ItemLinks.Add(this.barButtonItem8);
+            this.ribbonPageGroup2.ItemLinks.Add(this.lst_tipo_plantilla);
+            this.ribbonPageGroup2.ItemLinks.Add(this.barButtonItem11);
+            this.ribbonPageGroup2.Name = "ribbonPageGroup2";
+            this.ribbonPageGroup2.Text = "Acciones";
+            // 
+            // ribbonPageGroup3
+            // 
+            this.ribbonPageGroup3.ItemLinks.Add(this.barButtonItem9);
+            this.ribbonPageGroup3.Name = "ribbonPageGroup3";
+            // 
+            // ctrlTitulo1
+            // 
+            this.ctrlTitulo1.AppTitulo1 = "Usuario:";
+            this.ctrlTitulo1.AppTitulo2 = "Conexion:";
+            this.ctrlTitulo1.AppTitulo3 = "Fecha:";
+            this.ctrlTitulo1.BackColor = System.Drawing.Color.Transparent;
+            this.ctrlTitulo1.Dock = System.Windows.Forms.DockStyle.Bottom;
+            this.ctrlTitulo1.Location = new System.Drawing.Point(0, 616);
+            this.ctrlTitulo1.Name = "ctrlTitulo1";
+            this.ctrlTitulo1.Size = new System.Drawing.Size(1082, 70);
+            this.ctrlTitulo1.TabIndex = 11;
+            // 
+            // groupControl1
+            // 
+            this.groupControl1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left)));
+            this.groupControl1.Controls.Add(this.gridControl1);
+            this.groupControl1.Location = new System.Drawing.Point(8, 147);
+            this.groupControl1.Name = "groupControl1";
+            this.groupControl1.Size = new System.Drawing.Size(464, 463);
+            this.groupControl1.TabIndex = 12;
+            this.groupControl1.Text = "Lista Tags";
+            // 
+            // gridControl1
+            // 
+            this.gridControl1.Anchor = ((System.Windows.Forms.AnchorStyles)(((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left)));
+            this.gridControl1.DataSource = this.bRCTAGSBindingSource;
+            this.gridControl1.Location = new System.Drawing.Point(5, 23);
+            this.gridControl1.MainView = this.gridView1;
+            this.gridControl1.MenuManager = this.ribbonControl1;
+            this.gridControl1.Name = "gridControl1";
+            this.gridControl1.Size = new System.Drawing.Size(454, 435);
+            this.gridControl1.TabIndex = 0;
+            this.gridControl1.ViewCollection.AddRange(new DevExpress.XtraGrid.Views.Base.BaseView[] {
+            this.gridView1});
+            // 
+            // bRCTAGSBindingSource
+            // 
+            this.bRCTAGSBindingSource.DataMember = "BRC_TAGS";
+            this.bRCTAGSBindingSource.DataSource = this.dataSetTags;
+            // 
+            // dataSetTags
+            // 
+            this.dataSetTags.DataSetName = "DataSetTags";
+            this.dataSetTags.SchemaSerializationMode = System.Data.SchemaSerializationMode.IncludeSchema;
+            // 
+            // gridView1
+            // 
+            this.gridView1.Columns.AddRange(new DevExpress.XtraGrid.Columns.GridColumn[] {
+            this.colID_TAGS,
+            this.colFECHA_TRANSACCION,
+            this.colTURNO,
+            this.colUSUARIO_CREO,
+            this.colFECHA_CREACION,
+            this.colID_TIPO_PLANTILLA,
+            this.colID_MAQUINA,
+            this.colOP,
+            this.colCOD_ARTICULO,
+            this.colUNIDAD_1,
+            this.colUNIDAD_2,
+            this.colUSER_1,
+            this.colUSER_2,
+            this.colUSER_3,
+            this.colUSER_4,
+            this.colUSER_5,
+            this.colACTIVO,
+            this.colUSER_6,
+            this.colUSER_7,
+            this.colUSER_8,
+            this.colUSER_9,
+            this.colUSER_10});
+            this.gridView1.GridControl = this.gridControl1;
+            this.gridView1.Name = "gridView1";
+            this.gridView1.OptionsView.ColumnAutoWidth = false;
+            // 
+            // colID_TAGS
+            // 
+            this.colID_TAGS.AppearanceHeader.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.999999F, System.Drawing.FontStyle.Bold);
+            this.colID_TAGS.AppearanceHeader.ForeColor = System.Drawing.Color.CornflowerBlue;
+            this.colID_TAGS.AppearanceHeader.Options.UseFont = true;
+            this.colID_TAGS.AppearanceHeader.Options.UseForeColor = true;
+            this.colID_TAGS.Caption = "Tag";
+            this.colID_TAGS.FieldName = "ID_TAGS";
+            this.colID_TAGS.Name = "colID_TAGS";
+            this.colID_TAGS.Visible = true;
+            this.colID_TAGS.VisibleIndex = 0;
+            // 
+            // colFECHA_TRANSACCION
+            // 
+            this.colFECHA_TRANSACCION.AppearanceHeader.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.999999F, System.Drawing.FontStyle.Bold);
+            this.colFECHA_TRANSACCION.AppearanceHeader.ForeColor = System.Drawing.Color.CornflowerBlue;
+            this.colFECHA_TRANSACCION.AppearanceHeader.Options.UseFont = true;
+            this.colFECHA_TRANSACCION.AppearanceHeader.Options.UseForeColor = true;
+            this.colFECHA_TRANSACCION.Caption = "Fecha";
+            this.colFECHA_TRANSACCION.FieldName = "FECHA_TRANSACCION";
+            this.colFECHA_TRANSACCION.Name = "colFECHA_TRANSACCION";
+            this.colFECHA_TRANSACCION.Visible = true;
+            this.colFECHA_TRANSACCION.VisibleIndex = 1;
+            // 
+            // colTURNO
+            // 
+            this.colTURNO.AppearanceHeader.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.999999F, System.Drawing.FontStyle.Bold);
+            this.colTURNO.AppearanceHeader.ForeColor = System.Drawing.Color.CornflowerBlue;
+            this.colTURNO.AppearanceHeader.Options.UseFont = true;
+            this.colTURNO.AppearanceHeader.Options.UseForeColor = true;
+            this.colTURNO.Caption = "Turno";
+            this.colTURNO.FieldName = "TURNO";
+            this.colTURNO.Name = "colTURNO";
+            this.colTURNO.Visible = true;
+            this.colTURNO.VisibleIndex = 2;
+            // 
+            // colUSUARIO_CREO
+            // 
+            this.colUSUARIO_CREO.AppearanceHeader.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.999999F, System.Drawing.FontStyle.Bold);
+            this.colUSUARIO_CREO.AppearanceHeader.ForeColor = System.Drawing.Color.CornflowerBlue;
+            this.colUSUARIO_CREO.AppearanceHeader.Options.UseFont = true;
+            this.colUSUARIO_CREO.AppearanceHeader.Options.UseForeColor = true;
+            this.colUSUARIO_CREO.Caption = "Usuario";
+            this.colUSUARIO_CREO.FieldName = "USUARIO_CREO";
+            this.colUSUARIO_CREO.Name = "colUSUARIO_CREO";
+            // 
+            // colFECHA_CREACION
+            // 
+            this.colFECHA_CREACION.AppearanceHeader.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.999999F, System.Drawing.FontStyle.Bold);
+            this.colFECHA_CREACION.AppearanceHeader.ForeColor = System.Drawing.Color.CornflowerBlue;
+            this.colFECHA_CREACION.AppearanceHeader.Options.UseFont = true;
+            this.colFECHA_CREACION.AppearanceHeader.Options.UseForeColor = true;
+            this.colFECHA_CREACION.Caption = "Fecha Creacion";
+            this.colFECHA_CREACION.FieldName = "FECHA_CREACION";
+            this.colFECHA_CREACION.Name = "colFECHA_CREACION";
+            // 
+            // colID_TIPO_PLANTILLA
+            // 
+            this.colID_TIPO_PLANTILLA.AppearanceHeader.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.999999F, System.Drawing.FontStyle.Bold);
+            this.colID_TIPO_PLANTILLA.AppearanceHeader.ForeColor = System.Drawing.Color.CornflowerBlue;
+            this.colID_TIPO_PLANTILLA.AppearanceHeader.Options.UseFont = true;
+            this.colID_TIPO_PLANTILLA.AppearanceHeader.Options.UseForeColor = true;
+            this.colID_TIPO_PLANTILLA.Caption = "Departamento";
+            this.colID_TIPO_PLANTILLA.FieldName = "ID_TIPO_PLANTILLA";
+            this.colID_TIPO_PLANTILLA.Name = "colID_TIPO_PLANTILLA";
+            // 
+            // colID_MAQUINA
+            // 
+            this.colID_MAQUINA.AppearanceHeader.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.999999F, System.Drawing.FontStyle.Bold);
+            this.colID_MAQUINA.AppearanceHeader.ForeColor = System.Drawing.Color.CornflowerBlue;
+            this.colID_MAQUINA.AppearanceHeader.Options.UseFont = true;
+            this.colID_MAQUINA.AppearanceHeader.Options.UseForeColor = true;
+            this.colID_MAQUINA.Caption = "Maquina";
+            this.colID_MAQUINA.FieldName = "ID_MAQUINA";
+            this.colID_MAQUINA.Name = "colID_MAQUINA";
+            this.colID_MAQUINA.Visible = true;
+            this.colID_MAQUINA.VisibleIndex = 3;
+            // 
+            // colOP
+            // 
+            this.colOP.AppearanceHeader.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.999999F, System.Drawing.FontStyle.Bold);
+            this.colOP.AppearanceHeader.ForeColor = System.Drawing.Color.CornflowerBlue;
+            this.colOP.AppearanceHeader.Options.UseFont = true;
+            this.colOP.AppearanceHeader.Options.UseForeColor = true;
+            this.colOP.Caption = "OP";
+            this.colOP.FieldName = "OP";
+            this.colOP.Name = "colOP";
+            this.colOP.Visible = true;
+            this.colOP.VisibleIndex = 4;
+            // 
+            // colCOD_ARTICULO
+            // 
+            this.colCOD_ARTICULO.AppearanceHeader.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.999999F, System.Drawing.FontStyle.Bold);
+            this.colCOD_ARTICULO.AppearanceHeader.ForeColor = System.Drawing.Color.CornflowerBlue;
+            this.colCOD_ARTICULO.AppearanceHeader.Options.UseFont = true;
+            this.colCOD_ARTICULO.AppearanceHeader.Options.UseForeColor = true;
+            this.colCOD_ARTICULO.Caption = "Articulo";
+            this.colCOD_ARTICULO.FieldName = "COD_ARTICULO";
+            this.colCOD_ARTICULO.Name = "colCOD_ARTICULO";
+            // 
+            // colUNIDAD_1
+            // 
+            this.colUNIDAD_1.AppearanceHeader.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.999999F, System.Drawing.FontStyle.Bold);
+            this.colUNIDAD_1.AppearanceHeader.ForeColor = System.Drawing.Color.CornflowerBlue;
+            this.colUNIDAD_1.AppearanceHeader.Options.UseFont = true;
+            this.colUNIDAD_1.AppearanceHeader.Options.UseForeColor = true;
+            this.colUNIDAD_1.Caption = "Unidad 1";
+            this.colUNIDAD_1.FieldName = "UNIDAD_1";
+            this.colUNIDAD_1.Name = "colUNIDAD_1";
+            // 
+            // colUNIDAD_2
+            // 
+            this.colUNIDAD_2.AppearanceHeader.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.999999F, System.Drawing.FontStyle.Bold);
+            this.colUNIDAD_2.AppearanceHeader.ForeColor = System.Drawing.Color.CornflowerBlue;
+            this.colUNIDAD_2.AppearanceHeader.Options.UseFont = true;
+            this.colUNIDAD_2.AppearanceHeader.Options.UseForeColor = true;
+            this.colUNIDAD_2.Caption = "Unidad 2";
+            this.colUNIDAD_2.FieldName = "UNIDAD_2";
+            this.colUNIDAD_2.Name = "colUNIDAD_2";
+            // 
+            // colUSER_1
+            // 
+            this.colUSER_1.AppearanceHeader.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.999999F, System.Drawing.FontStyle.Bold);
+            this.colUSER_1.AppearanceHeader.ForeColor = System.Drawing.Color.CornflowerBlue;
+            this.colUSER_1.AppearanceHeader.Options.UseFont = true;
+            this.colUSER_1.AppearanceHeader.Options.UseForeColor = true;
+            this.colUSER_1.Caption = "User 1";
+            this.colUSER_1.FieldName = "USER_1";
+            this.colUSER_1.Name = "colUSER_1";
+            // 
+            // colUSER_2
+            // 
+            this.colUSER_2.AppearanceHeader.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.999999F, System.Drawing.FontStyle.Bold);
+            this.colUSER_2.AppearanceHeader.ForeColor = System.Drawing.Color.CornflowerBlue;
+            this.colUSER_2.AppearanceHeader.Options.UseFont = true;
+            this.colUSER_2.AppearanceHeader.Options.UseForeColor = true;
+            this.colUSER_2.Caption = "User 2";
+            this.colUSER_2.FieldName = "USER_2";
+            this.colUSER_2.Name = "colUSER_2";
+            // 
+            // colUSER_3
+            // 
+            this.colUSER_3.AppearanceHeader.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.999999F, System.Drawing.FontStyle.Bold);
+            this.colUSER_3.AppearanceHeader.ForeColor = System.Drawing.Color.CornflowerBlue;
+            this.colUSER_3.AppearanceHeader.Options.UseFont = true;
+            this.colUSER_3.AppearanceHeader.Options.UseForeColor = true;
+            this.colUSER_3.Caption = "User 3";
+            this.colUSER_3.FieldName = "USER_3";
+            this.colUSER_3.Name = "colUSER_3";
+            // 
+            // colUSER_4
+            // 
+            this.colUSER_4.AppearanceHeader.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.999999F, System.Drawing.FontStyle.Bold);
+            this.colUSER_4.AppearanceHeader.ForeColor = System.Drawing.Color.CornflowerBlue;
+            this.colUSER_4.AppearanceHeader.Options.UseFont = true;
+            this.colUSER_4.AppearanceHeader.Options.UseForeColor = true;
+            this.colUSER_4.Caption = "User 4";
+            this.colUSER_4.FieldName = "USER_4";
+            this.colUSER_4.Name = "colUSER_4";
+            // 
+            // colUSER_5
+            // 
+            this.colUSER_5.AppearanceHeader.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.999999F, System.Drawing.FontStyle.Bold);
+            this.colUSER_5.AppearanceHeader.ForeColor = System.Drawing.Color.CornflowerBlue;
+            this.colUSER_5.AppearanceHeader.Options.UseFont = true;
+            this.colUSER_5.AppearanceHeader.Options.UseForeColor = true;
+            this.colUSER_5.Caption = "User 5";
+            this.colUSER_5.FieldName = "USER_5";
+            this.colUSER_5.Name = "colUSER_5";
+            // 
+            // colACTIVO
+            // 
+            this.colACTIVO.AppearanceHeader.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.999999F, System.Drawing.FontStyle.Bold);
+            this.colACTIVO.AppearanceHeader.ForeColor = System.Drawing.Color.CornflowerBlue;
+            this.colACTIVO.AppearanceHeader.Options.UseFont = true;
+            this.colACTIVO.AppearanceHeader.Options.UseForeColor = true;
+            this.colACTIVO.Caption = "Activo";
+            this.colACTIVO.FieldName = "ACTIVO";
+            this.colACTIVO.Name = "colACTIVO";
+            // 
+            // colUSER_6
+            // 
+            this.colUSER_6.AppearanceHeader.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.999999F, System.Drawing.FontStyle.Bold);
+            this.colUSER_6.AppearanceHeader.ForeColor = System.Drawing.Color.CornflowerBlue;
+            this.colUSER_6.AppearanceHeader.Options.UseFont = true;
+            this.colUSER_6.AppearanceHeader.Options.UseForeColor = true;
+            this.colUSER_6.Caption = "User 6";
+            this.colUSER_6.FieldName = "USER_6";
+            this.colUSER_6.Name = "colUSER_6";
+            // 
+            // colUSER_7
+            // 
+            this.colUSER_7.AppearanceHeader.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.999999F, System.Drawing.FontStyle.Bold);
+            this.colUSER_7.AppearanceHeader.ForeColor = System.Drawing.Color.CornflowerBlue;
+            this.colUSER_7.AppearanceHeader.Options.UseFont = true;
+            this.colUSER_7.AppearanceHeader.Options.UseForeColor = true;
+            this.colUSER_7.Caption = "User 7";
+            this.colUSER_7.FieldName = "USER_7";
+            this.colUSER_7.Name = "colUSER_7";
+            // 
+            // colUSER_8
+            // 
+            this.colUSER_8.AppearanceHeader.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.999999F, System.Drawing.FontStyle.Bold);
+            this.colUSER_8.AppearanceHeader.ForeColor = System.Drawing.Color.CornflowerBlue;
+            this.colUSER_8.AppearanceHeader.Options.UseFont = true;
+            this.colUSER_8.AppearanceHeader.Options.UseForeColor = true;
+            this.colUSER_8.Caption = "User 8";
+            this.colUSER_8.FieldName = "USER_8";
+            this.colUSER_8.Name = "colUSER_8";
+            // 
+            // colUSER_9
+            // 
+            this.colUSER_9.AppearanceHeader.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.999999F, System.Drawing.FontStyle.Bold);
+            this.colUSER_9.AppearanceHeader.ForeColor = System.Drawing.Color.CornflowerBlue;
+            this.colUSER_9.AppearanceHeader.Options.UseFont = true;
+            this.colUSER_9.AppearanceHeader.Options.UseForeColor = true;
+            this.colUSER_9.Caption = "User 9";
+            this.colUSER_9.FieldName = "USER_9";
+            this.colUSER_9.Name = "colUSER_9";
+            // 
+            // colUSER_10
+            // 
+            this.colUSER_10.AppearanceHeader.Font = new System.Drawing.Font("Microsoft Sans Serif", 8.999999F, System.Drawing.FontStyle.Bold);
+            this.colUSER_10.AppearanceHeader.ForeColor = System.Drawing.Color.CornflowerBlue;
+            this.colUSER_10.AppearanceHeader.Options.UseFont = true;
+            this.colUSER_10.AppearanceHeader.Options.UseForeColor = true;
+            this.colUSER_10.Caption = "User 10";
+            this.colUSER_10.FieldName = "USER_10";
+            this.colUSER_10.Name = "colUSER_10";
+            // 
+            // groupControl2
+            // 
+            this.groupControl2.Anchor = ((System.Windows.Forms.AnchorStyles)((((System.Windows.Forms.AnchorStyles.Top | System.Windows.Forms.AnchorStyles.Bottom) 
+            | System.Windows.Forms.AnchorStyles.Left) 
+            | System.Windows.Forms.AnchorStyles.Right)));
+            this.groupControl2.Controls.Add(this.labelControl1);
+            this.groupControl2.Controls.Add(this.brc_tags);
+            this.groupControl2.Controls.Add(aCTIVOLabel);
+            this.groupControl2.Controls.Add(this.chk_activo);
+            this.groupControl2.Controls.Add(uSER_10Label);
+            this.groupControl2.Controls.Add(this.txt_user10);
+            this.groupControl2.Controls.Add(uSER_9Label);
+            this.groupControl2.Controls.Add(this.txt_user9);
+            this.groupControl2.Controls.Add(uSER_8Label);
+            this.groupControl2.Controls.Add(this.txt_user8);
+            this.groupControl2.Controls.Add(uSER_7Label);
+            this.groupControl2.Controls.Add(this.txt_user7);
+            this.groupControl2.Controls.Add(uSER_6Label);
+            this.groupControl2.Controls.Add(this.txt_user6);
+            this.groupControl2.Controls.Add(uSER_5Label);
+            this.groupControl2.Controls.Add(this.txt_user5);
+            this.groupControl2.Controls.Add(uSER_4Label);
+            this.groupControl2.Controls.Add(this.txt_user4);
+            this.groupControl2.Controls.Add(uSER_3Label);
+            this.groupControl2.Controls.Add(this.txt_user3);
+            this.groupControl2.Controls.Add(uSER_2Label);
+            this.groupControl2.Controls.Add(this.txt_user2);
+            this.groupControl2.Controls.Add(uSER_1Label);
+            this.groupControl2.Controls.Add(this.txt_user1);
+            this.groupControl2.Controls.Add(uNIDAD_2Label);
+            this.groupControl2.Controls.Add(this.lst_unidad2);
+            this.groupControl2.Controls.Add(uNIDAD_1Label);
+            this.groupControl2.Controls.Add(this.lst_unidad1);
+            this.groupControl2.Controls.Add(cOD_ARTICULOLabel);
+            this.groupControl2.Controls.Add(this.lst_articulo);
+            this.groupControl2.Controls.Add(oPLabel);
+            this.groupControl2.Controls.Add(this.lst_op);
+            this.groupControl2.Controls.Add(iD_MAQUINALabel);
+            this.groupControl2.Controls.Add(this.lst_maquina);
+            this.groupControl2.Controls.Add(iD_TIPO_PLANTILLALabel);
+            this.groupControl2.Controls.Add(this.txt_tipo_plantilla);
+            this.groupControl2.Controls.Add(fECHA_CREACIONLabel);
+            this.groupControl2.Controls.Add(this.lst_fecha_creacion);
+            this.groupControl2.Controls.Add(uSUARIO_CREOLabel);
+            this.groupControl2.Controls.Add(this.txt_usuario_creo);
+            this.groupControl2.Controls.Add(tURNOLabel);
+            this.groupControl2.Controls.Add(this.lst_turno);
+            this.groupControl2.Controls.Add(fECHA_TRANSACCIONLabel);
+            this.groupControl2.Controls.Add(this.lst_fecha_transaccion);
+            this.groupControl2.Controls.Add(iD_TAGSLabel);
+            this.groupControl2.Controls.Add(this.txt_tag);
+            this.groupControl2.Location = new System.Drawing.Point(478, 147);
+            this.groupControl2.Name = "groupControl2";
+            this.groupControl2.Size = new System.Drawing.Size(598, 463);
+            this.groupControl2.TabIndex = 13;
+            this.groupControl2.Text = "Detalle Tags";
+            // 
+            // labelControl1
+            // 
+            this.labelControl1.Location = new System.Drawing.Point(273, 371);
+            this.labelControl1.Name = "labelControl1";
+            this.labelControl1.Size = new System.Drawing.Size(66, 13);
+            this.labelControl1.TabIndex = 46;
+            this.labelControl1.Text = "Codigo Barra:";
+            // 
+            // brc_tags
+            // 
+            this.brc_tags.Location = new System.Drawing.Point(273, 390);
+            this.brc_tags.Name = "brc_tags";
+            this.brc_tags.Padding = new System.Windows.Forms.Padding(10, 2, 10, 0);
+            this.brc_tags.Size = new System.Drawing.Size(312, 66);
+            this.brc_tags.Symbology = code128Generator1;
+            this.brc_tags.TabIndex = 45;
+            // 
+            // chk_activo
+            // 
+            this.chk_activo.DataBindings.Add(new System.Windows.Forms.Binding("EditValue", this.bRCTAGSBindingSource, "ACTIVO", true));
+            this.chk_activo.Location = new System.Drawing.Point(111, 439);
+            this.chk_activo.MenuManager = this.ribbonControl1;
+            this.chk_activo.Name = "chk_activo";
+            this.chk_activo.Properties.Caption = "";
+            this.chk_activo.Size = new System.Drawing.Size(75, 19);
+            this.chk_activo.TabIndex = 44;
+            // 
+            // txt_user10
+            // 
+            this.txt_user10.DataBindings.Add(new System.Windows.Forms.Binding("EditValue", this.bRCTAGSBindingSource, "USER_10", true));
+            this.txt_user10.Location = new System.Drawing.Point(485, 174);
+            this.txt_user10.MenuManager = this.ribbonControl1;
+            this.txt_user10.Name = "txt_user10";
+            this.txt_user10.Size = new System.Drawing.Size(100, 20);
+            this.txt_user10.TabIndex = 43;
+            // 
+            // txt_user9
+            // 
+            this.txt_user9.DataBindings.Add(new System.Windows.Forms.Binding("EditValue", this.bRCTAGSBindingSource, "USER_9", true));
+            this.txt_user9.Location = new System.Drawing.Point(485, 134);
+            this.txt_user9.MenuManager = this.ribbonControl1;
+            this.txt_user9.Name = "txt_user9";
+            this.txt_user9.Size = new System.Drawing.Size(100, 20);
+            this.txt_user9.TabIndex = 41;
+            // 
+            // txt_user8
+            // 
+            this.txt_user8.DataBindings.Add(new System.Windows.Forms.Binding("EditValue", this.bRCTAGSBindingSource, "USER_8", true));
+            this.txt_user8.Location = new System.Drawing.Point(485, 100);
+            this.txt_user8.MenuManager = this.ribbonControl1;
+            this.txt_user8.Name = "txt_user8";
+            this.txt_user8.Size = new System.Drawing.Size(100, 20);
+            this.txt_user8.TabIndex = 39;
+            // 
+            // txt_user7
+            // 
+            this.txt_user7.DataBindings.Add(new System.Windows.Forms.Binding("EditValue", this.bRCTAGSBindingSource, "USER_7", true));
+            this.txt_user7.Location = new System.Drawing.Point(485, 63);
+            this.txt_user7.MenuManager = this.ribbonControl1;
+            this.txt_user7.Name = "txt_user7";
+            this.txt_user7.Size = new System.Drawing.Size(100, 20);
+            this.txt_user7.TabIndex = 37;
+            // 
+            // txt_user6
+            // 
+            this.txt_user6.DataBindings.Add(new System.Windows.Forms.Binding("EditValue", this.bRCTAGSBindingSource, "USER_6", true));
+            this.txt_user6.Location = new System.Drawing.Point(485, 26);
+            this.txt_user6.MenuManager = this.ribbonControl1;
+            this.txt_user6.Name = "txt_user6";
+            this.txt_user6.Size = new System.Drawing.Size(100, 20);
+            this.txt_user6.TabIndex = 35;
+            // 
+            // txt_user5
+            // 
+            this.txt_user5.DataBindings.Add(new System.Windows.Forms.Binding("EditValue", this.bRCTAGSBindingSource, "USER_5", true));
+            this.txt_user5.Location = new System.Drawing.Point(313, 174);
+            this.txt_user5.MenuManager = this.ribbonControl1;
+            this.txt_user5.Name = "txt_user5";
+            this.txt_user5.Size = new System.Drawing.Size(100, 20);
+            this.txt_user5.TabIndex = 31;
+            // 
+            // txt_user4
+            // 
+            this.txt_user4.DataBindings.Add(new System.Windows.Forms.Binding("EditValue", this.bRCTAGSBindingSource, "USER_4", true));
+            this.txt_user4.Location = new System.Drawing.Point(313, 134);
+            this.txt_user4.MenuManager = this.ribbonControl1;
+            this.txt_user4.Name = "txt_user4";
+            this.txt_user4.Size = new System.Drawing.Size(100, 20);
+            this.txt_user4.TabIndex = 29;
+            // 
+            // txt_user3
+            // 
+            this.txt_user3.DataBindings.Add(new System.Windows.Forms.Binding("EditValue", this.bRCTAGSBindingSource, "USER_3", true));
+            this.txt_user3.Location = new System.Drawing.Point(313, 100);
+            this.txt_user3.MenuManager = this.ribbonControl1;
+            this.txt_user3.Name = "txt_user3";
+            this.txt_user3.Size = new System.Drawing.Size(100, 20);
+            this.txt_user3.TabIndex = 27;
+            // 
+            // txt_user2
+            // 
+            this.txt_user2.DataBindings.Add(new System.Windows.Forms.Binding("EditValue", this.bRCTAGSBindingSource, "USER_2", true));
+            this.txt_user2.Location = new System.Drawing.Point(313, 63);
+            this.txt_user2.MenuManager = this.ribbonControl1;
+            this.txt_user2.Name = "txt_user2";
+            this.txt_user2.Size = new System.Drawing.Size(100, 20);
+            this.txt_user2.TabIndex = 25;
+            // 
+            // txt_user1
+            // 
+            this.txt_user1.DataBindings.Add(new System.Windows.Forms.Binding("EditValue", this.bRCTAGSBindingSource, "USER_1", true));
+            this.txt_user1.Location = new System.Drawing.Point(313, 26);
+            this.txt_user1.MenuManager = this.ribbonControl1;
+            this.txt_user1.Name = "txt_user1";
+            this.txt_user1.Size = new System.Drawing.Size(100, 20);
+            this.txt_user1.TabIndex = 23;
+            // 
+            // lst_unidad2
+            // 
+            this.lst_unidad2.DataBindings.Add(new System.Windows.Forms.Binding("EditValue", this.bRCTAGSBindingSource, "UNIDAD_2", true));
+            this.lst_unidad2.Location = new System.Drawing.Point(111, 411);
+            this.lst_unidad2.MenuManager = this.ribbonControl1;
+            this.lst_unidad2.Name = "lst_unidad2";
+            this.lst_unidad2.Size = new System.Drawing.Size(100, 20);
+            this.lst_unidad2.TabIndex = 21;
+            this.lst_unidad2.EditValueChanged += new System.EventHandler(this.uNIDAD_2TextEdit_EditValueChanged);
+            // 
+            // lst_unidad1
+            // 
+            this.lst_unidad1.DataBindings.Add(new System.Windows.Forms.Binding("EditValue", this.bRCTAGSBindingSource, "UNIDAD_1", true));
+            this.lst_unidad1.Location = new System.Drawing.Point(111, 374);
+            this.lst_unidad1.MenuManager = this.ribbonControl1;
+            this.lst_unidad1.Name = "lst_unidad1";
+            this.lst_unidad1.Size = new System.Drawing.Size(100, 20);
+            this.lst_unidad1.TabIndex = 19;
+            // 
+            // lst_articulo
+            // 
+            this.lst_articulo.DataBindings.Add(new System.Windows.Forms.Binding("EditValue", this.bRCTAGSBindingSource, "COD_ARTICULO", true));
+            this.lst_articulo.Location = new System.Drawing.Point(111, 335);
+            this.lst_articulo.MenuManager = this.ribbonControl1;
+            this.lst_articulo.Name = "lst_articulo";
+            this.lst_articulo.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.lst_articulo.Properties.View = this.cOD_ARTICULOSearchLookUpEditView;
+            this.lst_articulo.Size = new System.Drawing.Size(206, 20);
+            this.lst_articulo.TabIndex = 17;
+            // 
+            // cOD_ARTICULOSearchLookUpEditView
+            // 
+            this.cOD_ARTICULOSearchLookUpEditView.FocusRectStyle = DevExpress.XtraGrid.Views.Grid.DrawFocusRectStyle.RowFocus;
+            this.cOD_ARTICULOSearchLookUpEditView.Name = "cOD_ARTICULOSearchLookUpEditView";
+            this.cOD_ARTICULOSearchLookUpEditView.OptionsSelection.EnableAppearanceFocusedCell = false;
+            this.cOD_ARTICULOSearchLookUpEditView.OptionsView.ShowGroupPanel = false;
+            // 
+            // lst_op
+            // 
+            this.lst_op.DataBindings.Add(new System.Windows.Forms.Binding("EditValue", this.bRCTAGSBindingSource, "OP", true));
+            this.lst_op.Location = new System.Drawing.Point(111, 296);
+            this.lst_op.MenuManager = this.ribbonControl1;
+            this.lst_op.Name = "lst_op";
+            this.lst_op.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.lst_op.Properties.View = this.oPSearchLookUpEditView;
+            this.lst_op.Size = new System.Drawing.Size(206, 20);
+            this.lst_op.TabIndex = 15;
+            // 
+            // oPSearchLookUpEditView
+            // 
+            this.oPSearchLookUpEditView.FocusRectStyle = DevExpress.XtraGrid.Views.Grid.DrawFocusRectStyle.RowFocus;
+            this.oPSearchLookUpEditView.Name = "oPSearchLookUpEditView";
+            this.oPSearchLookUpEditView.OptionsSelection.EnableAppearanceFocusedCell = false;
+            this.oPSearchLookUpEditView.OptionsView.ShowGroupPanel = false;
+            // 
+            // lst_maquina
+            // 
+            this.lst_maquina.DataBindings.Add(new System.Windows.Forms.Binding("EditValue", this.bRCTAGSBindingSource, "ID_MAQUINA", true));
+            this.lst_maquina.Location = new System.Drawing.Point(111, 257);
+            this.lst_maquina.MenuManager = this.ribbonControl1;
+            this.lst_maquina.Name = "lst_maquina";
+            this.lst_maquina.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.lst_maquina.Properties.View = this.iD_MAQUINASearchLookUpEditView;
+            this.lst_maquina.Size = new System.Drawing.Size(206, 20);
+            this.lst_maquina.TabIndex = 13;
+            // 
+            // iD_MAQUINASearchLookUpEditView
+            // 
+            this.iD_MAQUINASearchLookUpEditView.FocusRectStyle = DevExpress.XtraGrid.Views.Grid.DrawFocusRectStyle.RowFocus;
+            this.iD_MAQUINASearchLookUpEditView.Name = "iD_MAQUINASearchLookUpEditView";
+            this.iD_MAQUINASearchLookUpEditView.OptionsSelection.EnableAppearanceFocusedCell = false;
+            this.iD_MAQUINASearchLookUpEditView.OptionsView.ShowGroupPanel = false;
+            // 
+            // txt_tipo_plantilla
+            // 
+            this.txt_tipo_plantilla.DataBindings.Add(new System.Windows.Forms.Binding("EditValue", this.bRCTAGSBindingSource, "ID_TIPO_PLANTILLA", true));
+            this.txt_tipo_plantilla.Location = new System.Drawing.Point(111, 218);
+            this.txt_tipo_plantilla.MenuManager = this.ribbonControl1;
+            this.txt_tipo_plantilla.Name = "txt_tipo_plantilla";
+            this.txt_tipo_plantilla.Size = new System.Drawing.Size(100, 20);
+            this.txt_tipo_plantilla.TabIndex = 11;
+            // 
+            // lst_fecha_creacion
+            // 
+            this.lst_fecha_creacion.DataBindings.Add(new System.Windows.Forms.Binding("EditValue", this.bRCTAGSBindingSource, "FECHA_CREACION", true));
+            this.lst_fecha_creacion.EditValue = null;
+            this.lst_fecha_creacion.Location = new System.Drawing.Point(111, 174);
+            this.lst_fecha_creacion.MenuManager = this.ribbonControl1;
+            this.lst_fecha_creacion.Name = "lst_fecha_creacion";
+            this.lst_fecha_creacion.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.lst_fecha_creacion.Properties.CalendarTimeProperties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.lst_fecha_creacion.Size = new System.Drawing.Size(100, 20);
+            this.lst_fecha_creacion.TabIndex = 9;
+            // 
+            // txt_usuario_creo
+            // 
+            this.txt_usuario_creo.DataBindings.Add(new System.Windows.Forms.Binding("EditValue", this.bRCTAGSBindingSource, "USUARIO_CREO", true));
+            this.txt_usuario_creo.Location = new System.Drawing.Point(111, 137);
+            this.txt_usuario_creo.MenuManager = this.ribbonControl1;
+            this.txt_usuario_creo.Name = "txt_usuario_creo";
+            this.txt_usuario_creo.Size = new System.Drawing.Size(100, 20);
+            this.txt_usuario_creo.TabIndex = 7;
+            // 
+            // lst_turno
+            // 
+            this.lst_turno.DataBindings.Add(new System.Windows.Forms.Binding("EditValue", this.bRCTAGSBindingSource, "TURNO", true));
+            this.lst_turno.Location = new System.Drawing.Point(111, 100);
+            this.lst_turno.MenuManager = this.ribbonControl1;
+            this.lst_turno.Name = "lst_turno";
+            this.lst_turno.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.lst_turno.Size = new System.Drawing.Size(100, 20);
+            this.lst_turno.TabIndex = 5;
+            // 
+            // lst_fecha_transaccion
+            // 
+            this.lst_fecha_transaccion.DataBindings.Add(new System.Windows.Forms.Binding("EditValue", this.bRCTAGSBindingSource, "FECHA_TRANSACCION", true));
+            this.lst_fecha_transaccion.EditValue = null;
+            this.lst_fecha_transaccion.Location = new System.Drawing.Point(111, 63);
+            this.lst_fecha_transaccion.MenuManager = this.ribbonControl1;
+            this.lst_fecha_transaccion.Name = "lst_fecha_transaccion";
+            this.lst_fecha_transaccion.Properties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.lst_fecha_transaccion.Properties.CalendarTimeProperties.Buttons.AddRange(new DevExpress.XtraEditors.Controls.EditorButton[] {
+            new DevExpress.XtraEditors.Controls.EditorButton(DevExpress.XtraEditors.Controls.ButtonPredefines.Combo)});
+            this.lst_fecha_transaccion.Size = new System.Drawing.Size(100, 20);
+            this.lst_fecha_transaccion.TabIndex = 3;
+            // 
+            // txt_tag
+            // 
+            this.txt_tag.DataBindings.Add(new System.Windows.Forms.Binding("EditValue", this.bRCTAGSBindingSource, "ID_TAGS", true));
+            this.txt_tag.Location = new System.Drawing.Point(111, 26);
+            this.txt_tag.MenuManager = this.ribbonControl1;
+            this.txt_tag.Name = "txt_tag";
+            this.txt_tag.Size = new System.Drawing.Size(100, 20);
+            this.txt_tag.TabIndex = 1;
+            // 
+            // bRC_TAGSTableAdapter
+            // 
+            this.bRC_TAGSTableAdapter.ClearBeforeFill = true;
+            // 
+            // tableAdapterManager
+            // 
+            this.tableAdapterManager.BackupDataSetBeforeUpdate = false;
+            this.tableAdapterManager.BRC_TAGSTableAdapter = this.bRC_TAGSTableAdapter;
+            this.tableAdapterManager.UpdateOrder = brc_tags.DA.DataSetTagsTableAdapters.TableAdapterManager.UpdateOrderOption.InsertUpdateDelete;
+            // 
+            // Form1
+            // 
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
+            this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
+            this.BackColor = System.Drawing.Color.White;
+            this.ClientSize = new System.Drawing.Size(1082, 686);
+            this.Controls.Add(this.groupControl2);
+            this.Controls.Add(this.groupControl1);
+            this.Controls.Add(this.ctrlTitulo1);
+            this.Controls.Add(this.ribbonControl1);
+            this.Icon = ((System.Drawing.Icon)(resources.GetObject("$this.Icon")));
+            this.Name = "Form1";
+            this.Text = "Tags";
+            this.Load += new System.EventHandler(this.Form1_Load);
+            ((System.ComponentModel.ISupportInitialize)(this.ribbonControl1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.repositoryItemLookUpEdit1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.groupControl1)).EndInit();
+            this.groupControl1.ResumeLayout(false);
+            ((System.ComponentModel.ISupportInitialize)(this.gridControl1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.bRCTAGSBindingSource)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.dataSetTags)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.gridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.groupControl2)).EndInit();
+            this.groupControl2.ResumeLayout(false);
+            this.groupControl2.PerformLayout();
+            ((System.ComponentModel.ISupportInitialize)(this.chk_activo.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txt_user10.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txt_user9.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txt_user8.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txt_user7.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txt_user6.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txt_user5.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txt_user4.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txt_user3.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txt_user2.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txt_user1.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lst_unidad2.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lst_unidad1.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lst_articulo.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.cOD_ARTICULOSearchLookUpEditView)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lst_op.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.oPSearchLookUpEditView)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lst_maquina.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.iD_MAQUINASearchLookUpEditView)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txt_tipo_plantilla.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lst_fecha_creacion.Properties.CalendarTimeProperties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lst_fecha_creacion.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txt_usuario_creo.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lst_turno.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lst_fecha_transaccion.Properties.CalendarTimeProperties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.lst_fecha_transaccion.Properties)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.txt_tag.Properties)).EndInit();
+            this.ResumeLayout(false);
+            this.PerformLayout();
+
+        }
+
+        #endregion
+
+        private DevExpress.XtraBars.Ribbon.RibbonControl ribbonControl1;
+        private DevExpress.XtraBars.BarButtonItem barButtonItem1;
+        private DevExpress.XtraBars.BarButtonItem barButtonItem2;
+        private DevExpress.XtraBars.BarButtonItem barButtonItem3;
+        private DevExpress.XtraBars.BarButtonItem barButtonItem4;
+        private DevExpress.XtraBars.BarButtonItem barButtonItem5;
+        private DevExpress.XtraBars.BarButtonItem barButtonItem6;
+        private DevExpress.XtraBars.BarButtonItem barButtonItem7;
+        private DevExpress.XtraBars.BarButtonItem barButtonItem8;
+        private DevExpress.XtraBars.BarButtonItem barButtonItem9;
+        private DevExpress.XtraBars.BarButtonItem barButtonItem10;
+        private DevExpress.XtraBars.Ribbon.RibbonPage ribbonPage1;
+        private DevExpress.XtraBars.Ribbon.RibbonPageGroup ribbonPageGroup1;
+        private DevExpress.XtraBars.Ribbon.RibbonPageGroup ribbonPageGroup2;
+        private DevExpress.XtraBars.Ribbon.RibbonPageGroup ribbonPageGroup3;
+        private BltCtr.CtrlTituloFrm ctrlTitulo1;
+        private DevExpress.XtraEditors.GroupControl groupControl1;
+        private DevExpress.XtraEditors.GroupControl groupControl2;
+        private DevExpress.XtraBars.BarEditItem lst_tipo_plantilla;
+        private DevExpress.XtraEditors.Repository.RepositoryItemLookUpEdit repositoryItemLookUpEdit1;
+        private DevExpress.XtraBars.BarButtonItem barButtonItem11;
+        private DevExpress.XtraGrid.GridControl gridControl1;
+        private DevExpress.XtraGrid.Views.Grid.GridView gridView1;
+        private DA.DataSetTags dataSetTags;
+        private System.Windows.Forms.BindingSource bRCTAGSBindingSource;
+        private DA.DataSetTagsTableAdapters.BRC_TAGSTableAdapter bRC_TAGSTableAdapter;
+        private DevExpress.XtraGrid.Columns.GridColumn colID_TAGS;
+        private DevExpress.XtraGrid.Columns.GridColumn colFECHA_TRANSACCION;
+        private DevExpress.XtraGrid.Columns.GridColumn colTURNO;
+        private DevExpress.XtraGrid.Columns.GridColumn colUSUARIO_CREO;
+        private DevExpress.XtraGrid.Columns.GridColumn colFECHA_CREACION;
+        private DevExpress.XtraGrid.Columns.GridColumn colID_TIPO_PLANTILLA;
+        private DevExpress.XtraGrid.Columns.GridColumn colID_MAQUINA;
+        private DevExpress.XtraGrid.Columns.GridColumn colOP;
+        private DevExpress.XtraGrid.Columns.GridColumn colCOD_ARTICULO;
+        private DevExpress.XtraGrid.Columns.GridColumn colUNIDAD_1;
+        private DevExpress.XtraGrid.Columns.GridColumn colUNIDAD_2;
+        private DevExpress.XtraGrid.Columns.GridColumn colUSER_1;
+        private DevExpress.XtraGrid.Columns.GridColumn colUSER_2;
+        private DevExpress.XtraGrid.Columns.GridColumn colUSER_3;
+        private DevExpress.XtraGrid.Columns.GridColumn colUSER_4;
+        private DevExpress.XtraGrid.Columns.GridColumn colUSER_5;
+        private DevExpress.XtraGrid.Columns.GridColumn colACTIVO;
+        private DevExpress.XtraGrid.Columns.GridColumn colUSER_6;
+        private DevExpress.XtraGrid.Columns.GridColumn colUSER_7;
+        private DevExpress.XtraGrid.Columns.GridColumn colUSER_8;
+        private DevExpress.XtraGrid.Columns.GridColumn colUSER_9;
+        private DevExpress.XtraGrid.Columns.GridColumn colUSER_10;
+        private DevExpress.XtraEditors.CheckEdit chk_activo;
+        private DevExpress.XtraEditors.TextEdit txt_user10;
+        private DevExpress.XtraEditors.TextEdit txt_user9;
+        private DevExpress.XtraEditors.TextEdit txt_user8;
+        private DevExpress.XtraEditors.TextEdit txt_user7;
+        private DevExpress.XtraEditors.TextEdit txt_user6;
+        private DevExpress.XtraEditors.TextEdit txt_user5;
+        private DevExpress.XtraEditors.TextEdit txt_user4;
+        private DevExpress.XtraEditors.TextEdit txt_user3;
+        private DevExpress.XtraEditors.TextEdit txt_user2;
+        private DevExpress.XtraEditors.TextEdit txt_user1;
+        private DevExpress.XtraEditors.TextEdit lst_unidad2;
+        private DevExpress.XtraEditors.TextEdit lst_unidad1;
+        private DevExpress.XtraEditors.SearchLookUpEdit lst_articulo;
+        private DevExpress.XtraGrid.Views.Grid.GridView cOD_ARTICULOSearchLookUpEditView;
+        private DevExpress.XtraEditors.SearchLookUpEdit lst_op;
+        private DevExpress.XtraGrid.Views.Grid.GridView oPSearchLookUpEditView;
+        private DevExpress.XtraEditors.SearchLookUpEdit lst_maquina;
+        private DevExpress.XtraGrid.Views.Grid.GridView iD_MAQUINASearchLookUpEditView;
+        private DevExpress.XtraEditors.TextEdit txt_tipo_plantilla;
+        private DevExpress.XtraEditors.DateEdit lst_fecha_creacion;
+        private DevExpress.XtraEditors.TextEdit txt_usuario_creo;
+        private DevExpress.XtraEditors.LookUpEdit lst_turno;
+        private DevExpress.XtraEditors.DateEdit lst_fecha_transaccion;
+        private DevExpress.XtraEditors.TextEdit txt_tag;
+        private DA.DataSetTagsTableAdapters.TableAdapterManager tableAdapterManager;
+        private DevExpress.XtraEditors.LabelControl labelControl1;
+        private DevExpress.XtraEditors.BarCodeControl brc_tags;
+        private DevExpress.XtraBars.BarButtonItem barButtonItem12;
+
+    }
+}
+

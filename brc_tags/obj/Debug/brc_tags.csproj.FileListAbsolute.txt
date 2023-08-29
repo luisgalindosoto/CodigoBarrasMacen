@@ -1,0 +1,557 @@
+C:\Users\lgalindo\Documents\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\bin\Debug\brc_tags.exe.config
+C:\Users\lgalindo\Documents\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\bin\Debug\brc_tags.exe
+C:\Users\lgalindo\Documents\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\bin\Debug\brc_tags.pdb
+C:\Users\lgalindo\Documents\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\bin\Debug\Biblioteca de Controles.dll
+C:\Users\lgalindo\Documents\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\bin\Debug\Biblioteca de Controles.pdb
+C:\Users\lgalindo\Documents\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\bin\Debug\Biblioteca de Controles.xml
+C:\Users\lgalindo\Documents\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\obj\Debug\brc_tags.Form1.resources
+C:\Users\lgalindo\Documents\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\obj\Debug\brc_tags.ObtenerCodigos.resources
+C:\Users\lgalindo\Documents\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\obj\Debug\brc_tags.Properties.Resources.resources
+C:\Users\lgalindo\Documents\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTags.resources
+C:\Users\lgalindo\Documents\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\obj\Debug\brc_tags.csproj.GenerateResource.Cache
+C:\Users\lgalindo\Documents\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\obj\Debug\brc_tags.exe.licenses
+C:\Users\lgalindo\Documents\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\obj\Debug\brc_tags.exe
+C:\Users\lgalindo\Documents\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\obj\Debug\brc_tags.pdb
+C:\Users\lgalindo\Documents\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\obj\Debug\brc_tags.csprojResolveAssemblyReference.cache
+C:\Users\lgalindo\Documents\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\obj\Debug\brc_tags.DatosTagConsecutivos.resources
+C:\Users\lgalindo\Documents\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsConse.resources
+C:\Users\administrator\Desktop\brc_tags\brc_tags\bin\Debug\brc_tags.exe.config
+C:\Users\administrator\Desktop\brc_tags\brc_tags\obj\Debug\brc_tags.exe
+C:\Users\administrator\Desktop\brc_tags\brc_tags\obj\Debug\brc_tags.pdb
+C:\Users\administrator\Desktop\brc_tags\brc_tags\obj\Debug\brc_tags.csprojResolveAssemblyReference.cache
+C:\Users\administrator\Desktop\brc_tags\brc_tags\obj\Debug\brc_tags.AgregarPeso.resources
+C:\Users\administrator\Desktop\brc_tags\brc_tags\obj\Debug\brc_tags.DatosTagConsecutivos.resources
+C:\Users\administrator\Desktop\brc_tags\brc_tags\obj\Debug\brc_tags.Form1.resources
+C:\Users\administrator\Desktop\brc_tags\brc_tags\obj\Debug\brc_tags.ObtenerCodigos.resources
+C:\Users\administrator\Desktop\brc_tags\brc_tags\obj\Debug\brc_tags.Properties.Resources.resources
+C:\Users\administrator\Desktop\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsConse.resources
+C:\Users\administrator\Desktop\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTags.resources
+C:\Users\administrator\Desktop\brc_tags\brc_tags\obj\Debug\brc_tags.csproj.GenerateResource.Cache
+C:\Users\administrator\Desktop\brc_tags\brc_tags\obj\Debug\brc_tags.exe.licenses
+C:\Users\administrator\Desktop\brc_tags\brc_tags\bin\Debug\brc_tags.exe
+C:\Users\administrator\Desktop\brc_tags\brc_tags\bin\Debug\brc_tags.pdb
+C:\Users\administrator\Desktop\brc_tags\brc_tags\bin\Debug\Biblioteca de Controles.dll
+C:\Users\administrator\Desktop\brc_tags\brc_tags\bin\Debug\Biblioteca de Controles.pdb
+C:\Users\administrator\Desktop\brc_tags\brc_tags\bin\Debug\Biblioteca de Controles.xml
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\bin\Debug\brc_tags.exe.config
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\bin\Debug\brc_tags.exe
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\bin\Debug\brc_tags.pdb
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\bin\Debug\Biblioteca de Controles.dll
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\bin\Debug\Biblioteca de Controles.pdb
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\bin\Debug\Biblioteca de Controles.xml
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\obj\Debug\brc_tags.csprojResolveAssemblyReference.cache
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\obj\Debug\brc_tags.AgregarPeso.resources
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\obj\Debug\brc_tags.DatosTagConsecutivos.resources
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\obj\Debug\brc_tags.DetalleOperador.resources
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\obj\Debug\brc_tags.DetalleTarimas.resources
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\obj\Debug\brc_tags.Form1.resources
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\obj\Debug\brc_tags.GenerarTarima.resources
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\obj\Debug\brc_tags.ObtenerCodigos.resources
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\obj\Debug\brc_tags.Properties.Resources.resources
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsConse.resources
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTags.resources
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTarima.resources
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\obj\Debug\brc_tags.csproj.GenerateResource.Cache
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\obj\Debug\brc_tags.exe.licenses
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\obj\Debug\brc_tags.exe
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\obj\Debug\brc_tags.pdb
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\obj\Debug\brc_tags.ObtenerCodigosConsecutivos.resources
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags - copia\brc_tags\bin\Debug\brc_tags.exe.config
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags - copia\brc_tags\obj\Debug\brc_tags.exe
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags - copia\brc_tags\obj\Debug\brc_tags.pdb
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags - copia\brc_tags\bin\Debug\brc_tags.exe
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags - copia\brc_tags\bin\Debug\brc_tags.pdb
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags - copia\brc_tags\bin\Debug\Biblioteca de Controles.dll
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags - copia\brc_tags\bin\Debug\Biblioteca de Controles.pdb
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags - copia\brc_tags\bin\Debug\Biblioteca de Controles.xml
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags - copia\brc_tags\obj\Debug\brc_tags.csprojResolveAssemblyReference.cache
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags - copia\brc_tags\obj\Debug\brc_tags.AgregarPeso.resources
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags - copia\brc_tags\obj\Debug\brc_tags.DatosTagConsecutivos.resources
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags - copia\brc_tags\obj\Debug\brc_tags.DetalleOperador.resources
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags - copia\brc_tags\obj\Debug\brc_tags.DetalleTarimas.resources
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags - copia\brc_tags\obj\Debug\brc_tags.Form1.resources
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags - copia\brc_tags\obj\Debug\brc_tags.GenerarTarima.resources
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags - copia\brc_tags\obj\Debug\brc_tags.ObtenerCodigos.resources
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags - copia\brc_tags\obj\Debug\brc_tags.ObtenerCodigosConsecutivos.resources
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags - copia\brc_tags\obj\Debug\brc_tags.Properties.Resources.resources
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags - copia\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsConse.resources
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags - copia\brc_tags\obj\Debug\brc_tags.rpt_ImprTags.resources
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags - copia\brc_tags\obj\Debug\brc_tags.rpt_ImprTarima.resources
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags - copia\brc_tags\obj\Debug\brc_tags.csproj.GenerateResource.Cache
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags - copia\brc_tags\obj\Debug\brc_tags.exe.licenses
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsUrdi.resources
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTags4X6.resources
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTags4X4.resources
+C:\Users\lgalindo\Documents\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsEnglSulz.resources
+Z:\Fuentes\c#.net\brc_tags\brc_tags\bin\Debug\brc_tags.exe.config
+Z:\Fuentes\c#.net\brc_tags\brc_tags\obj\Debug\brc_tags.exe
+Z:\Fuentes\c#.net\brc_tags\brc_tags\obj\Debug\brc_tags.pdb
+Z:\Fuentes\c#.net\brc_tags\brc_tags\obj\Debug\brc_tags.csprojResolveAssemblyReference.cache
+Z:\Fuentes\c#.net\brc_tags\brc_tags\obj\Debug\brc_tags.AgregarPeso.resources
+Z:\Fuentes\c#.net\brc_tags\brc_tags\obj\Debug\brc_tags.DatosTagConsecutivos.resources
+Z:\Fuentes\c#.net\brc_tags\brc_tags\obj\Debug\brc_tags.DetalleOperador.resources
+Z:\Fuentes\c#.net\brc_tags\brc_tags\obj\Debug\brc_tags.DetalleTarimas.resources
+Z:\Fuentes\c#.net\brc_tags\brc_tags\obj\Debug\brc_tags.Form1.resources
+Z:\Fuentes\c#.net\brc_tags\brc_tags\obj\Debug\brc_tags.GenerarTarima.resources
+Z:\Fuentes\c#.net\brc_tags\brc_tags\obj\Debug\brc_tags.ObtenerCodigos.resources
+Z:\Fuentes\c#.net\brc_tags\brc_tags\obj\Debug\brc_tags.ObtenerCodigosConsecutivos.resources
+Z:\Fuentes\c#.net\brc_tags\brc_tags\obj\Debug\brc_tags.Properties.Resources.resources
+Z:\Fuentes\c#.net\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsUrdi.resources
+Z:\Fuentes\c#.net\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTags4X6.resources
+Z:\Fuentes\c#.net\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTags4X4.resources
+Z:\Fuentes\c#.net\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsEnglSulz.resources
+Z:\Fuentes\c#.net\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsConse.resources
+Z:\Fuentes\c#.net\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTags.resources
+Z:\Fuentes\c#.net\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTarima.resources
+Z:\Fuentes\c#.net\brc_tags\brc_tags\obj\Debug\brc_tags.csproj.GenerateResource.Cache
+Z:\Fuentes\c#.net\brc_tags\brc_tags\obj\Debug\brc_tags.exe.licenses
+Z:\Fuentes\c#.net\brc_tags\brc_tags\bin\Debug\brc_tags.exe
+Z:\Fuentes\c#.net\brc_tags\brc_tags\bin\Debug\brc_tags.pdb
+Z:\Fuentes\c#.net\brc_tags\brc_tags\bin\Debug\Biblioteca de Controles.dll
+Z:\Fuentes\c#.net\brc_tags\brc_tags\bin\Debug\Biblioteca de Controles.pdb
+Z:\Fuentes\c#.net\brc_tags\brc_tags\bin\Debug\Biblioteca de Controles.xml
+C:\Fuentes\brc_tags\brc_tags\bin\Debug\brc_tags.exe.config
+C:\Fuentes\brc_tags\brc_tags\obj\Debug\brc_tags.exe
+C:\Fuentes\brc_tags\brc_tags\obj\Debug\brc_tags.pdb
+C:\Fuentes\brc_tags\brc_tags\obj\Debug\brc_tags.csprojResolveAssemblyReference.cache
+C:\Fuentes\brc_tags\brc_tags\obj\Debug\brc_tags.AgregarPeso.resources
+C:\Fuentes\brc_tags\brc_tags\obj\Debug\brc_tags.DatosTagConsecutivos.resources
+C:\Fuentes\brc_tags\brc_tags\obj\Debug\brc_tags.DetalleOperador.resources
+C:\Fuentes\brc_tags\brc_tags\obj\Debug\brc_tags.DetalleTarimas.resources
+C:\Fuentes\brc_tags\brc_tags\obj\Debug\brc_tags.Form1.resources
+C:\Fuentes\brc_tags\brc_tags\obj\Debug\brc_tags.GenerarTarima.resources
+C:\Fuentes\brc_tags\brc_tags\obj\Debug\brc_tags.ObtenerCodigos.resources
+C:\Fuentes\brc_tags\brc_tags\obj\Debug\brc_tags.ObtenerCodigosConsecutivos.resources
+C:\Fuentes\brc_tags\brc_tags\obj\Debug\brc_tags.Properties.Resources.resources
+C:\Fuentes\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsUrdi.resources
+C:\Fuentes\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTags4X6.resources
+C:\Fuentes\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTags4X4.resources
+C:\Fuentes\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsEnglSulz.resources
+C:\Fuentes\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsConse.resources
+C:\Fuentes\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTags.resources
+C:\Fuentes\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTarima.resources
+C:\Fuentes\brc_tags\brc_tags\obj\Debug\brc_tags.csproj.GenerateResource.Cache
+C:\Fuentes\brc_tags\brc_tags\obj\Debug\brc_tags.exe.licenses
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\brc_tags\brc_tags\bin\Debug\brc_tags.exe
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\brc_tags\brc_tags\bin\Debug\brc_tags.exe.config
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\brc_tags\brc_tags\obj\Debug\brc_tags.AgregarPeso.resources
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\brc_tags\brc_tags\obj\Debug\brc_tags.DatosTagConsecutivos.resources
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\brc_tags\brc_tags\obj\Debug\brc_tags.DetalleOperador.resources
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\brc_tags\brc_tags\obj\Debug\brc_tags.DetalleTarimas.resources
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\brc_tags\brc_tags\obj\Debug\brc_tags.Form1.resources
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\brc_tags\brc_tags\obj\Debug\brc_tags.GenerarTarima.resources
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\brc_tags\brc_tags\obj\Debug\brc_tags.ObtenerCodigos.resources
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\brc_tags\brc_tags\obj\Debug\brc_tags.ObtenerCodigosConsecutivos.resources
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\brc_tags\brc_tags\obj\Debug\brc_tags.Properties.Resources.resources
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsUrdi.resources
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTags4X6.resources
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTags4X4.resources
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsEnglSulz.resources
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsConse.resources
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTags.resources
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTarima.resources
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\brc_tags\brc_tags\obj\Debug\brc_tags.csproj.GenerateResource.Cache
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\brc_tags\brc_tags\obj\Debug\brc_tags.exe.licenses
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\brc_tags\brc_tags\obj\Debug\brc_tags.exe
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\brc_tags\brc_tags\obj\Debug\brc_tags.pdb
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\brc_tags\brc_tags\bin\Debug\brc_tags.pdb
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\brc_tags\brc_tags\obj\Debug\brc_tags.csprojResolveAssemblyReference.cache
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\brc_tags\brc_tags\obj\Debug\brc_tags.XtraReport1.resources
+C:\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags_macen\brc_tags\brc_tags\bin\Debug\brc_tags.exe.config
+C:\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.exe
+C:\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.pdb
+C:\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.csprojResolveAssemblyReference.cache
+C:\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.AgregarPeso.resources
+C:\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.DatosTagConsecutivos.resources
+C:\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.DetalleOperador.resources
+C:\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.DetalleTarimas.resources
+C:\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.Form1.resources
+C:\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.GenerarTarima.resources
+C:\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.ObtenerCodigos.resources
+C:\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.ObtenerCodigosConsecutivos.resources
+C:\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.Part.resources
+C:\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.Properties.Resources.resources
+C:\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsUrdi.resources
+C:\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTags4X6.resources
+C:\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTags4X4.resources
+C:\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsEnglSulz.resources
+C:\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsConse.resources
+C:\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTags.resources
+C:\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTarima.resources
+C:\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.Unidades.resources
+C:\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.XtraReport1.resources
+C:\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.csproj.GenerateResource.Cache
+C:\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.exe.licenses
+C:\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags_macen\brc_tags\brc_tags\bin\Debug\brc_tags.exe
+C:\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags_macen\brc_tags\brc_tags\bin\Debug\brc_tags.pdb
+C:\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags_macen\brc_tags\brc_tags\bin\Debug\Biblioteca de Controles.dll
+C:\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags_macen\brc_tags\brc_tags\bin\Debug\Biblioteca de Controles.pdb
+C:\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags_macen\brc_tags\brc_tags\bin\Debug\Biblioteca de Controles.xml
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\GUATE\brc_tags_macen\brc_tags\brc_tags\bin\Debug\brc_tags.exe.config
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\GUATE\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.exe
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\GUATE\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.pdb
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\GUATE\brc_tags_macen\brc_tags\brc_tags\bin\Debug\brc_tags.exe
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\GUATE\brc_tags_macen\brc_tags\brc_tags\bin\Debug\brc_tags.pdb
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\GUATE\brc_tags_macen\brc_tags\brc_tags\bin\Debug\Biblioteca de Controles.pdb
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\GUATE\brc_tags_macen\brc_tags\brc_tags\bin\Debug\Biblioteca de Controles.xml
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\GUATE\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.csprojResolveAssemblyReference.cache
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\GUATE\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.AgregarPeso.resources
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\GUATE\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.DatosTagConsecutivos.resources
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\GUATE\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.DetalleOperador.resources
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\GUATE\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.DetalleTarimas.resources
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\GUATE\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.Form1.resources
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\GUATE\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.GenerarTarima.resources
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\GUATE\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.ObtenerCodigos.resources
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\GUATE\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.ObtenerCodigosConsecutivos.resources
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\GUATE\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.Part.resources
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\GUATE\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.Properties.Resources.resources
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\GUATE\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsUrdi.resources
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\GUATE\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTags4X6.resources
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\GUATE\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTags4X4.resources
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\GUATE\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsEnglSulz.resources
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\GUATE\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsConse.resources
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\GUATE\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTags.resources
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\GUATE\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTarima.resources
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\GUATE\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.Unidades.resources
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\GUATE\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.XtraReport1.resources
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\GUATE\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.csproj.GenerateResource.Cache
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\GUATE\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.exe.licenses
+C:\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsAudit.resources
+C:\Users\eguerrero\Documents\Visual Studio 2013\Projects\GUATE\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsAudit.resources
+C:\Users\dgarcia\Desktop\brc_tags_macen\brc_tags\brc_tags\bin\Debug\brc_tags.exe.config
+C:\Users\dgarcia\Desktop\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.exe
+C:\Users\dgarcia\Desktop\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.pdb
+C:\Users\dgarcia\Desktop\brc_tags_macen\brc_tags\brc_tags\bin\Debug\brc_tags.exe
+C:\Users\dgarcia\Desktop\brc_tags_macen\brc_tags\brc_tags\bin\Debug\brc_tags.pdb
+C:\Users\dgarcia\Desktop\brc_tags_macen\brc_tags\brc_tags\bin\Debug\Biblioteca de Controles.dll
+C:\Users\dgarcia\Desktop\brc_tags_macen\brc_tags\brc_tags\bin\Debug\Biblioteca de Controles.pdb
+C:\Users\dgarcia\Desktop\brc_tags_macen\brc_tags\brc_tags\bin\Debug\Biblioteca de Controles.xml
+C:\Users\dgarcia\Desktop\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.csprojResolveAssemblyReference.cache
+C:\Users\dgarcia\Desktop\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.AgregarPeso.resources
+C:\Users\dgarcia\Desktop\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.DatosTagConsecutivos.resources
+C:\Users\dgarcia\Desktop\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.DetalleOperador.resources
+C:\Users\dgarcia\Desktop\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.DetalleTarimas.resources
+C:\Users\dgarcia\Desktop\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.Form1.resources
+C:\Users\dgarcia\Desktop\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.GenerarTarima.resources
+C:\Users\dgarcia\Desktop\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.ObtenerCodigos.resources
+C:\Users\dgarcia\Desktop\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.ObtenerCodigosConsecutivos.resources
+C:\Users\dgarcia\Desktop\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.Part.resources
+C:\Users\dgarcia\Desktop\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.Properties.Resources.resources
+C:\Users\dgarcia\Desktop\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsAudit.resources
+C:\Users\dgarcia\Desktop\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsUrdi.resources
+C:\Users\dgarcia\Desktop\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTags4X6.resources
+C:\Users\dgarcia\Desktop\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTags4X4.resources
+C:\Users\dgarcia\Desktop\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsEnglSulz.resources
+C:\Users\dgarcia\Desktop\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsConse.resources
+C:\Users\dgarcia\Desktop\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTags.resources
+C:\Users\dgarcia\Desktop\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTarima.resources
+C:\Users\dgarcia\Desktop\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.Unidades.resources
+C:\Users\dgarcia\Desktop\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.XtraReport1.resources
+C:\Users\dgarcia\Desktop\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.csproj.GenerateResource.Cache
+C:\Users\dgarcia\Desktop\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.exe.licenses
+\\192.168.2.119\Desarrollo (n)\Fuentes\c#.net\brc_tags_macen\brc_tags\brc_tags\bin\Debug\brc_tags.exe.config
+\\192.168.2.119\Desarrollo (n)\Fuentes\c#.net\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.exe
+\\192.168.2.119\Desarrollo (n)\Fuentes\c#.net\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.pdb
+C:\Backups Compu Antigua\Visual Studio 2013\Projects\Proyecto Barcode\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.ValidarCredenciales.resources
+Z:\Fuentes\c#.net\brc_tags_macen\brc_tags\brc_tags\bin\Debug\brc_tags.exe.config
+Z:\Fuentes\c#.net\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.exe
+Z:\Fuentes\c#.net\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.pdb
+Z:\Fuentes\c#.net\brc_tags_macen\brc_tags\brc_tags\bin\Debug\brc_tags.exe
+Z:\Fuentes\c#.net\brc_tags_macen\brc_tags\brc_tags\bin\Debug\brc_tags.pdb
+Z:\Fuentes\c#.net\brc_tags_macen\brc_tags\brc_tags\bin\Debug\Biblioteca de Controles.dll
+Z:\Fuentes\c#.net\brc_tags_macen\brc_tags\brc_tags\bin\Debug\Biblioteca de Controles.pdb
+Z:\Fuentes\c#.net\brc_tags_macen\brc_tags\brc_tags\bin\Debug\Biblioteca de Controles.xml
+Z:\Fuentes\c#.net\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.csprojResolveAssemblyReference.cache
+Z:\Fuentes\c#.net\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.AgregarPeso.resources
+Z:\Fuentes\c#.net\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.DatosTagConsecutivos.resources
+Z:\Fuentes\c#.net\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.DetalleOperador.resources
+Z:\Fuentes\c#.net\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.DetalleTarimas.resources
+Z:\Fuentes\c#.net\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.Form1.resources
+Z:\Fuentes\c#.net\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.GenerarTarima.resources
+Z:\Fuentes\c#.net\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.ObtenerCodigos.resources
+Z:\Fuentes\c#.net\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.ObtenerCodigosConsecutivos.resources
+Z:\Fuentes\c#.net\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.Part.resources
+Z:\Fuentes\c#.net\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.Properties.Resources.resources
+Z:\Fuentes\c#.net\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ReImprTags.resources
+Z:\Fuentes\c#.net\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsAudit.resources
+Z:\Fuentes\c#.net\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsUrdi.resources
+Z:\Fuentes\c#.net\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTags4X6.resources
+Z:\Fuentes\c#.net\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTags4X4.resources
+Z:\Fuentes\c#.net\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsEnglSulz.resources
+Z:\Fuentes\c#.net\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsConse.resources
+Z:\Fuentes\c#.net\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTags.resources
+Z:\Fuentes\c#.net\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTarima.resources
+Z:\Fuentes\c#.net\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.Unidades.resources
+Z:\Fuentes\c#.net\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.ValidarCredenciales.resources
+Z:\Fuentes\c#.net\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.XtraReport1.resources
+Z:\Fuentes\c#.net\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.csproj.GenerateResource.Cache
+Z:\Fuentes\c#.net\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.exe.licenses
+C:\Users\dgarcia\Desktop\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ReImprTags.resources
+C:\Users\dgarcia\Desktop\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.ValidarCredenciales.resources
+C:\Users\dgarcia\Desktop\Macen Nicaragua\brc_tags_macen\brc_tags\brc_tags\bin\Debug\brc_tags.exe.config
+C:\Users\dgarcia\Desktop\Macen Nicaragua\brc_tags_macen\brc_tags\brc_tags\bin\Debug\brc_tags.exe
+C:\Users\dgarcia\Desktop\Macen Nicaragua\brc_tags_macen\brc_tags\brc_tags\bin\Debug\brc_tags.pdb
+C:\Users\dgarcia\Desktop\Macen Nicaragua\brc_tags_macen\brc_tags\brc_tags\bin\Debug\Biblioteca de Controles.dll
+C:\Users\dgarcia\Desktop\Macen Nicaragua\brc_tags_macen\brc_tags\brc_tags\bin\Debug\Biblioteca de Controles.pdb
+C:\Users\dgarcia\Desktop\Macen Nicaragua\brc_tags_macen\brc_tags\brc_tags\bin\Debug\Biblioteca de Controles.xml
+C:\Users\dgarcia\Desktop\Macen Nicaragua\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.csprojResolveAssemblyReference.cache
+C:\Users\dgarcia\Desktop\Macen Nicaragua\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.AgregarPeso.resources
+C:\Users\dgarcia\Desktop\Macen Nicaragua\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.DatosTagConsecutivos.resources
+C:\Users\dgarcia\Desktop\Macen Nicaragua\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.DetalleOperador.resources
+C:\Users\dgarcia\Desktop\Macen Nicaragua\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.DetalleTarimas.resources
+C:\Users\dgarcia\Desktop\Macen Nicaragua\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.Form1.resources
+C:\Users\dgarcia\Desktop\Macen Nicaragua\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.GenerarTarima.resources
+C:\Users\dgarcia\Desktop\Macen Nicaragua\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.ObtenerCodigos.resources
+C:\Users\dgarcia\Desktop\Macen Nicaragua\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.ObtenerCodigosConsecutivos.resources
+C:\Users\dgarcia\Desktop\Macen Nicaragua\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.Part.resources
+C:\Users\dgarcia\Desktop\Macen Nicaragua\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.Properties.Resources.resources
+C:\Users\dgarcia\Desktop\Macen Nicaragua\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ReImprTags.resources
+C:\Users\dgarcia\Desktop\Macen Nicaragua\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsAudit.resources
+C:\Users\dgarcia\Desktop\Macen Nicaragua\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsUrdi.resources
+C:\Users\dgarcia\Desktop\Macen Nicaragua\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTags4X6.resources
+C:\Users\dgarcia\Desktop\Macen Nicaragua\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTags4X4.resources
+C:\Users\dgarcia\Desktop\Macen Nicaragua\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsEnglSulz.resources
+C:\Users\dgarcia\Desktop\Macen Nicaragua\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsConse.resources
+C:\Users\dgarcia\Desktop\Macen Nicaragua\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTags.resources
+C:\Users\dgarcia\Desktop\Macen Nicaragua\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTarima.resources
+C:\Users\dgarcia\Desktop\Macen Nicaragua\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.Unidades.resources
+C:\Users\dgarcia\Desktop\Macen Nicaragua\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.ValidarCredenciales.resources
+C:\Users\dgarcia\Desktop\Macen Nicaragua\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.XtraReport1.resources
+C:\Users\dgarcia\Desktop\Macen Nicaragua\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.csproj.GenerateResource.Cache
+C:\Users\dgarcia\Desktop\Macen Nicaragua\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.exe.licenses
+C:\Users\dgarcia\Desktop\Macen Nicaragua\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.exe
+C:\Users\dgarcia\Desktop\Macen Nicaragua\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.pdb
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\brc_tags.exe.config
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.exe
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.pdb
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.AgregarPeso.resources
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.DatosTagConsecutivos.resources
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.DetalleOperador.resources
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.DetalleTarimas.resources
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.Form1.resources
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.GenerarTarima.resources
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.ObtenerCodigos.resources
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.ObtenerCodigosConsecutivos.resources
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.Part.resources
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.Properties.Resources.resources
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ReImprTags.resources
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsAudit.resources
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsUrdi.resources
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTags4X6.resources
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTags4X4.resources
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsEnglSulz.resources
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsConse.resources
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTags.resources
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTarima.resources
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.Unidades.resources
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.ValidarCredenciales.resources
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.XtraReport1.resources
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.csproj.GenerateResource.Cache
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.exe.licenses
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\brc_tags.exe
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\brc_tags.pdb
+C:\Users\smadmin\Documents\brc_tags_macen\brc_tags\brc_tags\bin\Debug\brc_tags.exe.config
+C:\Users\smadmin\Documents\brc_tags_macen\brc_tags\brc_tags\bin\Debug\brc_tags.exe
+C:\Users\smadmin\Documents\brc_tags_macen\brc_tags\brc_tags\bin\Debug\brc_tags.pdb
+C:\Users\smadmin\Documents\brc_tags_macen\brc_tags\brc_tags\bin\Debug\Biblioteca de Controles.pdb
+C:\Users\smadmin\Documents\brc_tags_macen\brc_tags\brc_tags\bin\Debug\Biblioteca de Controles.xml
+C:\Users\smadmin\Documents\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.csprojResolveAssemblyReference.cache
+C:\Users\smadmin\Documents\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.AgregarPeso.resources
+C:\Users\smadmin\Documents\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.DatosTagConsecutivos.resources
+C:\Users\smadmin\Documents\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.DetalleOperador.resources
+C:\Users\smadmin\Documents\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.DetalleTarimas.resources
+C:\Users\smadmin\Documents\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.Form1.resources
+C:\Users\smadmin\Documents\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.GenerarTarima.resources
+C:\Users\smadmin\Documents\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.ObtenerCodigos.resources
+C:\Users\smadmin\Documents\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.ObtenerCodigosConsecutivos.resources
+C:\Users\smadmin\Documents\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.Part.resources
+C:\Users\smadmin\Documents\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.Properties.Resources.resources
+C:\Users\smadmin\Documents\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ReImprTags.resources
+C:\Users\smadmin\Documents\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsAudit.resources
+C:\Users\smadmin\Documents\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsUrdi.resources
+C:\Users\smadmin\Documents\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTags4X6.resources
+C:\Users\smadmin\Documents\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTags4X4.resources
+C:\Users\smadmin\Documents\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsEnglSulz.resources
+C:\Users\smadmin\Documents\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsConse.resources
+C:\Users\smadmin\Documents\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTags.resources
+C:\Users\smadmin\Documents\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTarima.resources
+C:\Users\smadmin\Documents\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.Unidades.resources
+C:\Users\smadmin\Documents\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.ValidarCredenciales.resources
+C:\Users\smadmin\Documents\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.XtraReport1.resources
+C:\Users\smadmin\Documents\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.csproj.GenerateResource.Cache
+C:\Users\smadmin\Documents\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.exe.licenses
+C:\Users\smadmin\Documents\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.exe
+C:\Users\smadmin\Documents\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.pdb
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\Biblioteca de Controles.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.rpt_ImprTagsTelas.resources
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.Charts.v15.2.Core.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.Data.v15.2.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.DataAccess.v15.2.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.Office.v15.2.Core.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.PivotGrid.v15.2.Core.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.Printing.v15.2.Core.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.RichEdit.v15.2.Core.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.Sparkline.v15.2.Core.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.Utils.v15.2.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.Utils.v15.2.UI.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.Xpo.v15.2.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.XtraBars.v15.2.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.XtraCharts.v15.2.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.XtraEditors.v15.2.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.XtraGauges.v15.2.Core.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.XtraGrid.v15.2.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.XtraLayout.v15.2.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.XtraPrinting.v15.2.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.XtraReports.v15.2.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\System.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.CodeParser.v15.2.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.Pdf.v15.2.Core.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.Pdf.v15.2.Drawing.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.XtraTreeList.v15.2.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.XtraRichEdit.v15.2.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.DataAccess.v15.2.UI.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.XtraCharts.v15.2.Extensions.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.XtraPivotGrid.v15.2.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.XtraNavBar.v15.2.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.Data.v15.2.xml
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.DataAccess.v15.2.xml
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.Office.v15.2.Core.xml
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.PivotGrid.v15.2.Core.xml
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.Printing.v15.2.Core.xml
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.RichEdit.v15.2.Core.xml
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.Sparkline.v15.2.Core.xml
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.Utils.v15.2.xml
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.Utils.v15.2.UI.xml
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.Xpo.v15.2.xml
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.XtraBars.v15.2.xml
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.XtraCharts.v15.2.xml
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.XtraEditors.v15.2.xml
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.XtraGauges.v15.2.Core.xml
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.XtraGrid.v15.2.xml
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.XtraLayout.v15.2.xml
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.XtraPrinting.v15.2.xml
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.XtraReports.v15.2.xml
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.XtraReports.v15.2.Extensions.xml
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.Pdf.v15.2.Core.xml
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.Pdf.v15.2.Drawing.xml
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.XtraTreeList.v15.2.xml
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.XtraRichEdit.v15.2.xml
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.XtraVerticalGrid.v15.2.xml
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.DataAccess.v15.2.UI.xml
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.XtraPivotGrid.v15.2.xml
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.XtraNavBar.v15.2.xml
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\DevExpress.XtraCharts.v15.2.Wizard.xml
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\de\DevExpress.Data.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\es\DevExpress.Data.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ja\DevExpress.Data.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ru\DevExpress.Data.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\de\DevExpress.DataAccess.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\es\DevExpress.DataAccess.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ja\DevExpress.DataAccess.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ru\DevExpress.DataAccess.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\de\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\es\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ja\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ru\DevExpress.Office.v15.2.Core.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\de\DevExpress.PivotGrid.v15.2.Core.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\es\DevExpress.PivotGrid.v15.2.Core.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ja\DevExpress.PivotGrid.v15.2.Core.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ru\DevExpress.PivotGrid.v15.2.Core.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\de\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\es\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ja\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ru\DevExpress.Printing.v15.2.Core.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\de\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\es\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ja\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ru\DevExpress.RichEdit.v15.2.Core.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\de\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\es\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ja\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ru\DevExpress.Sparkline.v15.2.Core.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\de\DevExpress.Utils.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\es\DevExpress.Utils.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ja\DevExpress.Utils.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ru\DevExpress.Utils.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\de\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\es\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ja\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ru\DevExpress.Utils.v15.2.UI.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\de\DevExpress.Xpo.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\es\DevExpress.Xpo.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ja\DevExpress.Xpo.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ru\DevExpress.Xpo.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\de\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\es\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ja\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ru\DevExpress.XtraBars.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\de\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\es\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ja\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ru\DevExpress.XtraCharts.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\de\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\es\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ja\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ru\DevExpress.XtraEditors.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\de\DevExpress.XtraGauges.v15.2.Core.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\es\DevExpress.XtraGauges.v15.2.Core.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ja\DevExpress.XtraGauges.v15.2.Core.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ru\DevExpress.XtraGauges.v15.2.Core.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\de\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\es\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ja\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ru\DevExpress.XtraGrid.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\de\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\es\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ja\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ru\DevExpress.XtraLayout.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\de\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\es\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ja\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ru\DevExpress.XtraPrinting.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\de\DevExpress.XtraReports.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\es\DevExpress.XtraReports.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ja\DevExpress.XtraReports.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ru\DevExpress.XtraReports.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\de\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\es\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ja\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ru\DevExpress.XtraReports.v15.2.Extensions.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\de\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\es\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ja\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ru\DevExpress.Pdf.v15.2.Core.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\de\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\es\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ja\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ru\DevExpress.XtraTreeList.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\de\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\es\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ja\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ru\DevExpress.XtraRichEdit.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\de\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\es\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ja\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ru\DevExpress.XtraVerticalGrid.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\de\DevExpress.DataAccess.v15.2.UI.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\es\DevExpress.DataAccess.v15.2.UI.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ja\DevExpress.DataAccess.v15.2.UI.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ru\DevExpress.DataAccess.v15.2.UI.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\de\DevExpress.XtraPivotGrid.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\es\DevExpress.XtraPivotGrid.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ja\DevExpress.XtraPivotGrid.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ru\DevExpress.XtraPivotGrid.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\de\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\es\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ja\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ru\DevExpress.XtraNavBar.v15.2.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\de\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\es\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ja\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\bin\Debug\ru\DevExpress.XtraCharts.v15.2.Wizard.resources.dll
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.csprojAssemblyReference.cache
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.csproj.CoreCompileInputs.cache
+C:\Users\lgalindo\Desktop\FUENTES MACEN\brc_tags_macen\brc_tags\brc_tags\obj\Debug\brc_tags.csproj.CopyComplete
