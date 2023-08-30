@@ -652,6 +652,7 @@
             this.groupControl1.AppearanceCaption.ForeColor = System.Drawing.Color.CornflowerBlue;
             this.groupControl1.AppearanceCaption.Options.UseFont = true;
             this.groupControl1.AppearanceCaption.Options.UseForeColor = true;
+            this.groupControl1.Controls.Add(this.btn_units);
             this.groupControl1.Controls.Add(this.gridControl1);
             this.groupControl1.Location = new System.Drawing.Point(8, 147);
             this.groupControl1.Name = "groupControl1";
@@ -998,7 +999,6 @@
             this.groupControl2.AppearanceCaption.ForeColor = System.Drawing.Color.CornflowerBlue;
             this.groupControl2.AppearanceCaption.Options.UseFont = true;
             this.groupControl2.AppearanceCaption.Options.UseForeColor = true;
-            this.groupControl2.Controls.Add(this.btn_units);
             this.groupControl2.Controls.Add(this.btn_part);
             this.groupControl2.Controls.Add(this.btn_detalle_tarimas);
             this.groupControl2.Controls.Add(this.btn_entarimar);
@@ -1062,7 +1062,7 @@
             // btn_units
             // 
             this.btn_units.Image = global::brc_tags.Properties.Resources.UNITS64;
-            this.btn_units.Location = new System.Drawing.Point(8, 278);
+            this.btn_units.Location = new System.Drawing.Point(402, -8);
             this.btn_units.Name = "btn_units";
             this.btn_units.Size = new System.Drawing.Size(75, 74);
             this.btn_units.TabIndex = 68;
